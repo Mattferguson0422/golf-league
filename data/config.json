@@ -1,0 +1,17 @@
+{
+  "leagueName": "Buddies Golf League",
+  "commissioner": {
+    "name": "Matt Ferguson",
+    "paypal": "",
+    "venmo": "",
+    "zelle": "",
+    "cashNote": "See Matt at the next event"
+  },
+  "scoring": {
+    "formula": "midpoint_minus_rank",
+    "standardEntryFee": 2,
+    "majorEntryFee": 10,
+    "majors": ["players", "masters", "pga-championship", "us-open", "british-open"]
+  },
+  "currentSeason": 2026
+}

@@ -6,10 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import:season": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-season.ts",
+    "import:contest": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-contest.ts",
+    "import:money": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-money.ts"
   },
   "dependencies": {
+    "@types/papaparse": "^5.5.2",
     "next": "16.1.6",
+    "papaparse": "^5.5.3",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
@@ -21,6 +26,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }
