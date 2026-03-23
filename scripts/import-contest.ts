@@ -70,9 +70,20 @@ const N = entries.length;
 
 // ── build results ─────────────────────────────────────────────────────────────
 
+// Pre-compute averaged points for tied ranks.
+// k players tied at rank r occupy spots r..r+k-1, so each gets the average.
+const rankCounts = new Map<number, number>();
+for (const e of entries) rankCounts.set(e.rank, (rankCounts.get(e.rank) ?? 0) + 1);
+
+function leaguePointsForRank(rank: number): number {
+  const count = rankCounts.get(rank) ?? 1;
+  // Average of points for positions rank through rank+count-1
+  const avg = (N + 1) / 2 - rank - (count - 1) / 2;
+  return Math.round(avg * 10) / 10;
+}
+
 const results = entries.map((entry) => {
   const player = usernameMap.get(entry.entryName.toLowerCase());
-  const leaguePoints = (N + 1) / 2 - entry.rank;
 
   return {
     rank: entry.rank,
@@ -80,7 +91,7 @@ const results = entries.map((entry) => {
     playerId: player?.id ?? null,
     playerName: player?.name ?? `[unknown: ${entry.entryName}]`,
     dkPoints: entry.dkPoints,
-    leaguePoints: Math.round(leaguePoints * 10) / 10, // round to 1 decimal
+    leaguePoints: leaguePointsForRank(entry.rank),
     lineup: entry.lineup,
   };
 });
