@@ -18,7 +18,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": null,
-          "leaguePoints": 8,
+          "leaguePoints": 7,
           "lineup": ""
         },
         {
@@ -27,7 +27,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": null,
-          "leaguePoints": 7,
+          "leaguePoints": 6,
           "lineup": ""
         },
         {
@@ -36,7 +36,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": null,
-          "leaguePoints": 6,
+          "leaguePoints": 5,
           "lineup": ""
         },
         {
@@ -45,7 +45,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": null,
-          "leaguePoints": 5,
+          "leaguePoints": 4,
           "lineup": ""
         },
         {
@@ -54,7 +54,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": null,
-          "leaguePoints": 4,
+          "leaguePoints": 3,
           "lineup": ""
         },
         {
@@ -63,7 +63,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": null,
-          "leaguePoints": 3,
+          "leaguePoints": 2,
           "lineup": ""
         },
         {
@@ -72,7 +72,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": null,
-          "leaguePoints": 2,
+          "leaguePoints": 1,
           "lineup": ""
         },
         {
@@ -81,7 +81,7 @@
           "playerId": "michael-tammen",
           "playerName": "Michael Tammen",
           "dkPoints": null,
-          "leaguePoints": 1,
+          "leaguePoints": 0,
           "lineup": ""
         },
         {
@@ -90,7 +90,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": null,
-          "leaguePoints": 0,
+          "leaguePoints": -1,
           "lineup": ""
         },
         {
@@ -99,7 +99,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": null,
-          "leaguePoints": -1,
+          "leaguePoints": -2,
           "lineup": ""
         },
         {
@@ -108,7 +108,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": null,
-          "leaguePoints": -2,
+          "leaguePoints": -3,
           "lineup": ""
         },
         {
@@ -117,7 +117,7 @@
           "playerId": "john-snider",
           "playerName": "John Snider",
           "dkPoints": null,
-          "leaguePoints": -3,
+          "leaguePoints": -4,
           "lineup": ""
         },
         {
@@ -126,7 +126,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": null,
-          "leaguePoints": -4,
+          "leaguePoints": -5,
           "lineup": ""
         },
         {
@@ -135,7 +135,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": null,
-          "leaguePoints": -5,
+          "leaguePoints": -6,
           "lineup": ""
         },
         {
@@ -144,7 +144,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": null,
-          "leaguePoints": -6,
+          "leaguePoints": -7,
           "lineup": ""
         },
         {
@@ -153,7 +153,7 @@
           "playerId": "justin-ferguson",
           "playerName": "Justin Ferguson",
           "dkPoints": null,
-          "leaguePoints": -7,
+          "leaguePoints": -8,
           "lineup": ""
         },
         {
@@ -162,7 +162,7 @@
           "playerId": "chris-stroud",
           "playerName": "Chris Stroud",
           "dkPoints": null,
-          "leaguePoints": -8,
+          "leaguePoints": -9,
           "lineup": ""
         }
       ]
@@ -179,7 +179,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": null,
-          "leaguePoints": 9,
+          "leaguePoints": 8,
           "lineup": ""
         },
         {
@@ -188,7 +188,7 @@
           "playerId": "chris-stroud",
           "playerName": "Chris Stroud",
           "dkPoints": null,
-          "leaguePoints": 8,
+          "leaguePoints": 7,
           "lineup": ""
         },
         {
@@ -197,7 +197,7 @@
           "playerId": "scotty-lewis",
           "playerName": "Scotty Lewis",
           "dkPoints": null,
-          "leaguePoints": 7,
+          "leaguePoints": 6,
           "lineup": ""
         },
         {
@@ -206,7 +206,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": null,
-          "leaguePoints": 6,
+          "leaguePoints": 5,
           "lineup": ""
         },
         {
@@ -215,7 +215,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": null,
-          "leaguePoints": 5,
+          "leaguePoints": 4,
           "lineup": ""
         },
         {
@@ -224,7 +224,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": null,
-          "leaguePoints": 4,
+          "leaguePoints": 3,
           "lineup": ""
         },
         {
@@ -233,7 +233,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": null,
-          "leaguePoints": 3,
+          "leaguePoints": 2,
           "lineup": ""
         },
         {
@@ -242,7 +242,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": null,
-          "leaguePoints": 2,
+          "leaguePoints": 1,
           "lineup": ""
         },
         {
@@ -251,7 +251,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": null,
-          "leaguePoints": 1,
+          "leaguePoints": 0,
           "lineup": ""
         },
         {
@@ -260,7 +260,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": null,
-          "leaguePoints": 0,
+          "leaguePoints": -1,
           "lineup": ""
         },
         {
@@ -269,7 +269,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": null,
-          "leaguePoints": -1,
+          "leaguePoints": -2,
           "lineup": ""
         },
         {
@@ -278,7 +278,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": null,
-          "leaguePoints": -2,
+          "leaguePoints": -3,
           "lineup": ""
         },
         {
@@ -287,7 +287,7 @@
           "playerId": "brian-segraves",
           "playerName": "Brian Segraves",
           "dkPoints": null,
-          "leaguePoints": -3,
+          "leaguePoints": -4,
           "lineup": ""
         },
         {
@@ -296,7 +296,7 @@
           "playerId": "john-snider",
           "playerName": "John Snider",
           "dkPoints": null,
-          "leaguePoints": -4,
+          "leaguePoints": -5,
           "lineup": ""
         },
         {
@@ -305,7 +305,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": null,
-          "leaguePoints": -5,
+          "leaguePoints": -6,
           "lineup": ""
         },
         {
@@ -314,7 +314,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": null,
-          "leaguePoints": -6,
+          "leaguePoints": -7,
           "lineup": ""
         },
         {
@@ -323,7 +323,7 @@
           "playerId": "leah-ruppe",
           "playerName": "Leah Ruppe",
           "dkPoints": null,
-          "leaguePoints": -7,
+          "leaguePoints": -8,
           "lineup": ""
         },
         {
@@ -332,7 +332,7 @@
           "playerId": "michael-tammen",
           "playerName": "Michael Tammen",
           "dkPoints": null,
-          "leaguePoints": -8,
+          "leaguePoints": -9,
           "lineup": ""
         },
         {
@@ -341,7 +341,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": null,
-          "leaguePoints": -9,
+          "leaguePoints": -10,
           "lineup": ""
         }
       ]
@@ -358,7 +358,7 @@
           "playerId": "leah-ruppe",
           "playerName": "Leah Ruppe",
           "dkPoints": null,
-          "leaguePoints": 9,
+          "leaguePoints": 8,
           "lineup": ""
         },
         {
@@ -367,7 +367,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": null,
-          "leaguePoints": 8,
+          "leaguePoints": 7,
           "lineup": ""
         },
         {
@@ -376,7 +376,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": null,
-          "leaguePoints": 6.5,
+          "leaguePoints": 5.5,
           "lineup": ""
         },
         {
@@ -385,7 +385,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": null,
-          "leaguePoints": 6.5,
+          "leaguePoints": 5.5,
           "lineup": ""
         },
         {
@@ -394,7 +394,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": null,
-          "leaguePoints": 5,
+          "leaguePoints": 4,
           "lineup": ""
         },
         {
@@ -403,7 +403,7 @@
           "playerId": "brian-segraves",
           "playerName": "Brian Segraves",
           "dkPoints": null,
-          "leaguePoints": 4,
+          "leaguePoints": 3,
           "lineup": ""
         },
         {
@@ -412,7 +412,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": null,
-          "leaguePoints": 3,
+          "leaguePoints": 2,
           "lineup": ""
         },
         {
@@ -421,7 +421,7 @@
           "playerId": "justin-dabney",
           "playerName": "Justin Dabney",
           "dkPoints": null,
-          "leaguePoints": 2,
+          "leaguePoints": 1,
           "lineup": ""
         },
         {
@@ -430,7 +430,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": null,
-          "leaguePoints": 1,
+          "leaguePoints": 0,
           "lineup": ""
         },
         {
@@ -439,7 +439,7 @@
           "playerId": "justin-ferguson",
           "playerName": "Justin Ferguson",
           "dkPoints": null,
-          "leaguePoints": 0,
+          "leaguePoints": -1,
           "lineup": ""
         },
         {
@@ -448,7 +448,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": null,
-          "leaguePoints": -1,
+          "leaguePoints": -2,
           "lineup": ""
         },
         {
@@ -457,7 +457,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": null,
-          "leaguePoints": -2,
+          "leaguePoints": -3,
           "lineup": ""
         },
         {
@@ -466,7 +466,7 @@
           "playerId": "scotty-lewis",
           "playerName": "Scotty Lewis",
           "dkPoints": null,
-          "leaguePoints": -3,
+          "leaguePoints": -4,
           "lineup": ""
         },
         {
@@ -475,7 +475,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": null,
-          "leaguePoints": -4,
+          "leaguePoints": -5,
           "lineup": ""
         },
         {
@@ -484,7 +484,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": null,
-          "leaguePoints": -5,
+          "leaguePoints": -6,
           "lineup": ""
         },
         {
@@ -493,7 +493,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": null,
-          "leaguePoints": -6,
+          "leaguePoints": -7,
           "lineup": ""
         },
         {
@@ -502,7 +502,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": null,
-          "leaguePoints": -7,
+          "leaguePoints": -8,
           "lineup": ""
         },
         {
@@ -511,7 +511,7 @@
           "playerId": "michael-tammen",
           "playerName": "Michael Tammen",
           "dkPoints": null,
-          "leaguePoints": -8,
+          "leaguePoints": -9,
           "lineup": ""
         },
         {
@@ -520,7 +520,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": null,
-          "leaguePoints": -9,
+          "leaguePoints": -10,
           "lineup": ""
         }
       ]
@@ -716,7 +716,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": null,
-          "leaguePoints": 7.5,
+          "leaguePoints": 6.5,
           "lineup": ""
         },
         {
@@ -725,7 +725,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": null,
-          "leaguePoints": 6.5,
+          "leaguePoints": 5.5,
           "lineup": ""
         },
         {
@@ -734,7 +734,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": null,
-          "leaguePoints": 5.5,
+          "leaguePoints": 4.5,
           "lineup": ""
         },
         {
@@ -743,7 +743,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": null,
-          "leaguePoints": 4.5,
+          "leaguePoints": 3.5,
           "lineup": ""
         },
         {
@@ -752,7 +752,7 @@
           "playerId": "chris-stroud",
           "playerName": "Chris Stroud",
           "dkPoints": null,
-          "leaguePoints": 3.5,
+          "leaguePoints": 2.5,
           "lineup": ""
         },
         {
@@ -761,7 +761,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": null,
-          "leaguePoints": 2.5,
+          "leaguePoints": 1.5,
           "lineup": ""
         },
         {
@@ -770,7 +770,7 @@
           "playerId": "john-snider",
           "playerName": "John Snider",
           "dkPoints": null,
-          "leaguePoints": 1.5,
+          "leaguePoints": 0.5,
           "lineup": ""
         },
         {
@@ -779,7 +779,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": null,
-          "leaguePoints": 0.5,
+          "leaguePoints": -0.5,
           "lineup": ""
         },
         {
@@ -788,7 +788,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": null,
-          "leaguePoints": -0.5,
+          "leaguePoints": -1.5,
           "lineup": ""
         },
         {
@@ -797,7 +797,7 @@
           "playerId": "scotty-lewis",
           "playerName": "Scotty Lewis",
           "dkPoints": null,
-          "leaguePoints": -1.5,
+          "leaguePoints": -2.5,
           "lineup": ""
         },
         {
@@ -806,7 +806,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": null,
-          "leaguePoints": -2.5,
+          "leaguePoints": -3.5,
           "lineup": ""
         },
         {
@@ -815,7 +815,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": null,
-          "leaguePoints": -3.5,
+          "leaguePoints": -4.5,
           "lineup": ""
         },
         {
@@ -824,7 +824,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": null,
-          "leaguePoints": -4.5,
+          "leaguePoints": -5.5,
           "lineup": ""
         },
         {
@@ -833,7 +833,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": null,
-          "leaguePoints": -5.5,
+          "leaguePoints": -6.5,
           "lineup": ""
         },
         {
@@ -842,7 +842,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": null,
-          "leaguePoints": -6.5,
+          "leaguePoints": -7.5,
           "lineup": ""
         },
         {
@@ -851,7 +851,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": null,
-          "leaguePoints": -7.5,
+          "leaguePoints": -8.5,
           "lineup": ""
         }
       ]
@@ -868,7 +868,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": null,
-          "leaguePoints": 9,
+          "leaguePoints": 8,
           "lineup": ""
         },
         {
@@ -877,7 +877,7 @@
           "playerId": "justin-ferguson",
           "playerName": "Justin Ferguson",
           "dkPoints": null,
-          "leaguePoints": 8,
+          "leaguePoints": 7,
           "lineup": ""
         },
         {
@@ -886,7 +886,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": null,
-          "leaguePoints": 7,
+          "leaguePoints": 6,
           "lineup": ""
         },
         {
@@ -895,7 +895,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": null,
-          "leaguePoints": 6,
+          "leaguePoints": 5,
           "lineup": ""
         },
         {
@@ -904,7 +904,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": null,
-          "leaguePoints": 5,
+          "leaguePoints": 4,
           "lineup": ""
         },
         {
@@ -913,7 +913,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": null,
-          "leaguePoints": 4,
+          "leaguePoints": 3,
           "lineup": ""
         },
         {
@@ -922,7 +922,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": null,
-          "leaguePoints": 3,
+          "leaguePoints": 2,
           "lineup": ""
         },
         {
@@ -931,7 +931,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": null,
-          "leaguePoints": 2,
+          "leaguePoints": 1,
           "lineup": ""
         },
         {
@@ -940,7 +940,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": null,
-          "leaguePoints": 1,
+          "leaguePoints": 0,
           "lineup": ""
         },
         {
@@ -949,7 +949,7 @@
           "playerId": "scotty-lewis",
           "playerName": "Scotty Lewis",
           "dkPoints": null,
-          "leaguePoints": 0,
+          "leaguePoints": -1,
           "lineup": ""
         },
         {
@@ -958,7 +958,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": null,
-          "leaguePoints": -1,
+          "leaguePoints": -2,
           "lineup": ""
         },
         {
@@ -967,7 +967,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": null,
-          "leaguePoints": -2,
+          "leaguePoints": -3,
           "lineup": ""
         },
         {
@@ -976,7 +976,7 @@
           "playerId": "justin-dabney",
           "playerName": "Justin Dabney",
           "dkPoints": null,
-          "leaguePoints": -3,
+          "leaguePoints": -4,
           "lineup": ""
         },
         {
@@ -985,7 +985,7 @@
           "playerId": "john-snider",
           "playerName": "John Snider",
           "dkPoints": null,
-          "leaguePoints": -4,
+          "leaguePoints": -5,
           "lineup": ""
         },
         {
@@ -994,7 +994,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": null,
-          "leaguePoints": -5,
+          "leaguePoints": -6,
           "lineup": ""
         },
         {
@@ -1003,7 +1003,7 @@
           "playerId": "michael-tammen",
           "playerName": "Michael Tammen",
           "dkPoints": null,
-          "leaguePoints": -6,
+          "leaguePoints": -7,
           "lineup": ""
         },
         {
@@ -1012,7 +1012,7 @@
           "playerId": "chris-stroud",
           "playerName": "Chris Stroud",
           "dkPoints": null,
-          "leaguePoints": -7,
+          "leaguePoints": -8,
           "lineup": ""
         },
         {
@@ -1021,7 +1021,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": null,
-          "leaguePoints": -8,
+          "leaguePoints": -9,
           "lineup": ""
         },
         {
@@ -1030,8 +1030,187 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": null,
-          "leaguePoints": -9,
+          "leaguePoints": -10,
           "lineup": ""
+        }
+      ]
+    },
+    {
+      "slug": "genesis",
+      "name": "Genesis",
+      "year": 2026,
+      "entrants": 19,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 548.5,
+          "leaguePoints": 8,
+          "lineup": "G Rory McIlroy G Si Woo Kim G Harris English G Shane Lowry G Jacob Bridgeman G Matthew McCarty"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "Freeannyong",
+          "playerId": "michael-tammen",
+          "playerName": "Michael Tammen",
+          "dkPoints": 546,
+          "leaguePoints": 7,
+          "lineup": "G Tommy Fleetwood G Cameron Young G Matt Fitzpatrick G Adam Scott G Pierceson Coody G Tony Finau"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 541.5,
+          "leaguePoints": 6,
+          "lineup": "G Scottie Scheffler G Sepp Straka G Akshay Bhatia G Jacob Bridgeman G Ryo Hisatsune G Ryan Fox"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 540.5,
+          "leaguePoints": 5,
+          "lineup": "G Rory McIlroy G Matt Fitzpatrick G Harris English G Sepp Straka G Shane Lowry G Jacob Bridgeman"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "bryans812",
+          "playerId": "brian-segraves",
+          "playerName": "Brian Segraves",
+          "dkPoints": 523.5,
+          "leaguePoints": 4,
+          "lineup": "G Collin Morikawa G Viktor Hovland G Rickie Fowler G Adam Scott G Min Woo Lee G Akshay Bhatia"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 516.5,
+          "leaguePoints": 3,
+          "lineup": "G Tommy Fleetwood G Hideki Matsuyama G Viktor Hovland G Akshay Bhatia G Sahith Theegala G Jacob Bridgeman"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 496,
+          "leaguePoints": 2,
+          "lineup": "G Tommy Fleetwood G Shane Lowry G Jordan Spieth G Akshay Bhatia G Sahith Theegala G Sam Stevens"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 474,
+          "leaguePoints": 1,
+          "lineup": "G Tommy Fleetwood G Collin Morikawa G Adam Scott G Shane Lowry G Jason Day G Sahith Theegala"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "Grip-it-and--sip-it",
+          "playerId": "john-snider",
+          "playerName": "John Snider",
+          "dkPoints": 464.5,
+          "leaguePoints": 0,
+          "lineup": "G Russell Henley G Hideki Matsuyama G Si Woo Kim G Min Woo Lee G Ryan Gerard G Jacob Bridgeman"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 457.5,
+          "leaguePoints": -1,
+          "lineup": "G Tommy Fleetwood G Chris Gotterup G Jake Knapp G Akshay Bhatia G Pierceson Coody G Ryo Hisatsune"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "Jason.Elliott",
+          "playerId": "jason-elliott",
+          "playerName": "Jason Elliott",
+          "dkPoints": 439,
+          "leaguePoints": -2,
+          "lineup": "G Patrick Cantlay G Cameron Young G Chris Gotterup G Adam Scott G Shane Lowry G Max Homa"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 410,
+          "leaguePoints": -3,
+          "lineup": "G Russell Henley G Si Woo Kim G Chris Gotterup G Robert MacIntyre G Ryan Gerard G Jacob Bridgeman"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 409,
+          "leaguePoints": -4,
+          "lineup": "G Si Woo Kim G Viktor Hovland G Chris Gotterup G Jake Knapp G Min Woo Lee G Ryo Hisatsune"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 407.5,
+          "leaguePoints": -5,
+          "lineup": "G Scottie Scheffler G Jason Day G Akshay Bhatia G Sahith Theegala G Ryo Hisatsune G Tony Finau"
+        },
+        {
+          "rank": 15,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 392.5,
+          "leaguePoints": -6,
+          "lineup": "G Si Woo Kim G Chris Gotterup G Jake Knapp G Maverick McNealy G Min Woo Lee G Akshay Bhatia"
+        },
+        {
+          "rank": 16,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 387,
+          "leaguePoints": -7,
+          "lineup": "G Tommy Fleetwood G Ludvig Aberg G Maverick McNealy G Justin Rose G Shane Lowry G Ryan Gerard"
+        },
+        {
+          "rank": 17,
+          "dkUsername": "L-J_Ruppe",
+          "playerId": "leah-ruppe",
+          "playerName": "Leah Ruppe",
+          "dkPoints": 378.5,
+          "leaguePoints": -8,
+          "lineup": "G Hideki Matsuyama G Jake Knapp G Rickie Fowler G Maverick McNealy G Jason Day G Jordan Spieth"
+        },
+        {
+          "rank": 18,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 353.5,
+          "leaguePoints": -9,
+          "lineup": "G Tommy Fleetwood G Hideki Matsuyama G Patrick Cantlay G Jason Day G Tony Finau G Tom Hoge"
+        },
+        {
+          "rank": 19,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 299.5,
+          "leaguePoints": -10,
+          "lineup": "G Russell Henley G Hideki Matsuyama G Chris Gotterup G Keegan Bradley G Akshay Bhatia G Ryo Hisatsune"
         }
       ]
     },
@@ -1047,7 +1226,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": 481.5,
-          "leaguePoints": 10,
+          "leaguePoints": 9,
           "lineup": "G Tommy Fleetwood G Ludvig Aberg G Cameron Young G Brooks Koepka G Jake Knapp G Min Woo Lee"
         },
         {
@@ -1056,7 +1235,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": 451.5,
-          "leaguePoints": 9,
+          "leaguePoints": 8,
           "lineup": "G Si Woo Kim G Matt Fitzpatrick G Robert MacIntyre G Jacob Bridgeman G Jake Knapp G Min Woo Lee"
         },
         {
@@ -1065,7 +1244,7 @@
           "playerId": "scotty-lewis",
           "playerName": "Scotty Lewis",
           "dkPoints": 442.5,
-          "leaguePoints": 8,
+          "leaguePoints": 7,
           "lineup": "G Scottie Scheffler G Brooks Koepka G Akshay Bhatia G Sahith Theegala G Patrick Rodgers G Seamus Power"
         },
         {
@@ -1074,7 +1253,7 @@
           "playerId": "brian-segraves",
           "playerName": "Brian Segraves",
           "dkPoints": 436,
-          "leaguePoints": 7,
+          "leaguePoints": 6,
           "lineup": "G Rory McIlroy G Si Woo Kim G Akshay Bhatia G Sepp Straka G Brian Harman G Max McGreevy"
         },
         {
@@ -1083,7 +1262,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": 425.5,
-          "leaguePoints": 6,
+          "leaguePoints": 5,
           "lineup": "G Tommy Fleetwood G Collin Morikawa G Cameron Young G Akshay Bhatia G Rickie Fowler G Patrick Rodgers"
         },
         {
@@ -1092,7 +1271,7 @@
           "playerId": "michael-tammen",
           "playerName": "Michael Tammen",
           "dkPoints": 418,
-          "leaguePoints": 5,
+          "leaguePoints": 4,
           "lineup": "G Collin Morikawa G Russell Henley G Matt Fitzpatrick G Sepp Straka G Nicolai Hojgaard G Ryo Hisatsune"
         },
         {
@@ -1101,7 +1280,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": 410.5,
-          "leaguePoints": 4,
+          "leaguePoints": 3,
           "lineup": "G Collin Morikawa G Si Woo Kim G Cameron Young G Akshay Bhatia G Sepp Straka G Min Woo Lee"
         },
         {
@@ -1110,7 +1289,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": 409,
-          "leaguePoints": 3,
+          "leaguePoints": 2,
           "lineup": "G Hideki Matsuyama G Robert MacIntyre G Ben Griffin G Justin Thomas G Jason Day G Maverick McNealy"
         },
         {
@@ -1119,7 +1298,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": 405,
-          "leaguePoints": 2,
+          "leaguePoints": 1,
           "lineup": "G Tommy Fleetwood G Ludvig Aberg G Jake Knapp G Adam Scott G Daniel Berger G Sahith Theegala"
         },
         {
@@ -1128,7 +1307,7 @@
           "playerId": "justin-ferguson",
           "playerName": "Justin Ferguson",
           "dkPoints": 404.5,
-          "leaguePoints": 1,
+          "leaguePoints": 0,
           "lineup": "G Tommy Fleetwood G Si Woo Kim G Jacob Bridgeman G Jake Knapp G Daniel Berger G Sahith Theegala"
         },
         {
@@ -1137,7 +1316,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": 385,
-          "leaguePoints": 0,
+          "leaguePoints": -1,
           "lineup": "G Collin Morikawa G Si Woo Kim G Matt Fitzpatrick G Sepp Straka G Adam Scott G Sahith Theegala"
         },
         {
@@ -1146,7 +1325,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": 378,
-          "leaguePoints": -1,
+          "leaguePoints": -2,
           "lineup": "G Collin Morikawa G Ludvig Aberg G Cameron Young G Jordan Spieth G Jake Knapp G Min Woo Lee"
         },
         {
@@ -1155,7 +1334,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": 365.5,
-          "leaguePoints": -2,
+          "leaguePoints": -3,
           "lineup": "G Collin Morikawa G Hideki Matsuyama G Ludvig Aberg G Min Woo Lee G Adam Scott G Daniel Berger"
         },
         {
@@ -1164,7 +1343,7 @@
           "playerId": "chris-stroud",
           "playerName": "Chris Stroud",
           "dkPoints": 363.5,
-          "leaguePoints": -3,
+          "leaguePoints": -4,
           "lineup": "G Collin Morikawa G Si Woo Kim G Ludvig Aberg G Sepp Straka G Adam Scott G Daniel Berger"
         },
         {
@@ -1173,7 +1352,7 @@
           "playerId": "trent-dehate",
           "playerName": "Trent DeHate",
           "dkPoints": 355,
-          "leaguePoints": -4,
+          "leaguePoints": -5,
           "lineup": "G Tommy Fleetwood G Collin Morikawa G Jacob Bridgeman G Harris English G Rickie Fowler G Ryo Hisatsune"
         },
         {
@@ -1182,7 +1361,7 @@
           "playerId": "justin-dabney",
           "playerName": "Justin Dabney",
           "dkPoints": 354.5,
-          "leaguePoints": -5,
+          "leaguePoints": -6,
           "lineup": "G Rory McIlroy G Tommy Fleetwood G Jake Knapp G Daniel Berger G Sahith Theegala G Ricky Castillo"
         },
         {
@@ -1191,7 +1370,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": 330,
-          "leaguePoints": -6,
+          "leaguePoints": -7,
           "lineup": "G Collin Morikawa G Si Woo Kim G Jacob Bridgeman G Akshay Bhatia G Jake Knapp G Min Woo Lee"
         },
         {
@@ -1200,7 +1379,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": 330,
-          "leaguePoints": -6,
+          "leaguePoints": -7,
           "lineup": "G Collin Morikawa G Si Woo Kim G Jacob Bridgeman G Akshay Bhatia G Jake Knapp G Min Woo Lee"
         },
         {
@@ -1209,7 +1388,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": 328,
-          "leaguePoints": -8,
+          "leaguePoints": -9,
           "lineup": "G Collin Morikawa G Si Woo Kim G Ludvig Aberg G Jake Knapp G Min Woo Lee G Sahith Theegala"
         },
         {
@@ -1218,7 +1397,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": 324,
-          "leaguePoints": -9,
+          "leaguePoints": -10,
           "lineup": "G Tommy Fleetwood G Collin Morikawa G Harris English G Nicolai Hojgaard G Rickie Fowler G Sahith Theegala"
         },
         {
@@ -1227,7 +1406,7 @@
           "playerId": "john-snider",
           "playerName": "John Snider",
           "dkPoints": 323,
-          "leaguePoints": -10,
+          "leaguePoints": -11,
           "lineup": "G Collin Morikawa G Si Woo Kim G Justin Thomas G Akshay Bhatia G Jake Knapp G Min Woo Lee"
         }
       ]
@@ -1244,7 +1423,7 @@
           "playerId": "chris-stroud",
           "playerName": "Chris Stroud",
           "dkPoints": 379,
-          "leaguePoints": 8.5,
+          "leaguePoints": 7.5,
           "lineup": "G Viktor Hovland G Corey Conners G Ryo Hisatsune G Pierceson Coody G Tony Finau G Tom Kim"
         },
         {
@@ -1253,7 +1432,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": 361,
-          "leaguePoints": 7.5,
+          "leaguePoints": 6.5,
           "lineup": "G Matt Fitzpatrick G Jacob Bridgeman G Ryo Hisatsune G Patrick Rodgers G Austin Smotherman G Zac Blair"
         },
         {
@@ -1262,7 +1441,7 @@
           "playerId": "ralph-poe",
           "playerName": "Ralph Poe",
           "dkPoints": 356,
-          "leaguePoints": 6.5,
+          "leaguePoints": 5.5,
           "lineup": "G Xander Schauffele G Brooks Koepka G Wyndham Clark G Marco Penge G Lucas Glover G Billy Horschel"
         },
         {
@@ -1271,7 +1450,7 @@
           "playerId": "derek-banet",
           "playerName": "Derek Banet",
           "dkPoints": 349,
-          "leaguePoints": 5.5,
+          "leaguePoints": 4.5,
           "lineup": "G Jordan Spieth G Brooks Koepka G Corey Conners G Sahith Theegala G Tom Kim G Adam Hadwin"
         },
         {
@@ -1280,7 +1459,7 @@
           "playerId": "lynn-stroud",
           "playerName": "Lynn Stroud",
           "dkPoints": 346.5,
-          "leaguePoints": 4.5,
+          "leaguePoints": 3.5,
           "lineup": "G Matt Fitzpatrick G Jacob Bridgeman G Ricky Castillo G Patrick Rodgers G Taylor Moore G Austin Smotherman"
         },
         {
@@ -1289,7 +1468,7 @@
           "playerId": "bryan-tweed",
           "playerName": "Bryan Tweed",
           "dkPoints": 345,
-          "leaguePoints": 3.5,
+          "leaguePoints": 2.5,
           "lineup": "G Jacob Bridgeman G Justin Thomas G Ryo Hisatsune G Bud Cauley G Austin Smotherman G Stephan Jaeger"
         },
         {
@@ -1298,7 +1477,7 @@
           "playerId": "mac-stroud",
           "playerName": "Mac Stroud",
           "dkPoints": 331,
-          "leaguePoints": 2.5,
+          "leaguePoints": 1.5,
           "lineup": "G Jacob Bridgeman G Sahith Theegala G Ryo Hisatsune G Ricky Castillo G Patrick Rodgers G John Parry"
         },
         {
@@ -1307,7 +1486,7 @@
           "playerId": "scotty-lewis",
           "playerName": "Scotty Lewis",
           "dkPoints": 324,
-          "leaguePoints": 1.5,
+          "leaguePoints": 0.5,
           "lineup": "G Brooks Koepka G Nicolai Hojgaard G Sahith Theegala G Ryo Hisatsune G John Parry G Matti Schmid"
         },
         {
@@ -1316,7 +1495,7 @@
           "playerId": "brian-segraves",
           "playerName": "Brian Segraves",
           "dkPoints": 317.5,
-          "leaguePoints": 0.5,
+          "leaguePoints": -0.5,
           "lineup": "G Jacob Bridgeman G Nicolai Hojgaard G Sahith Theegala G Ryo Hisatsune G Taylor Moore G David Lipsky"
         },
         {
@@ -1325,7 +1504,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": 315.5,
-          "leaguePoints": -0.5,
+          "leaguePoints": -1.5,
           "lineup": "G Jacob Bridgeman G Brooks Koepka G Corey Conners G Max Homa G Austin Smotherman G Chad Ramey"
         },
         {
@@ -1334,7 +1513,7 @@
           "playerId": "matt-ferguson",
           "playerName": "Matt Ferguson",
           "dkPoints": 305.5,
-          "leaguePoints": -1.5,
+          "leaguePoints": -2.5,
           "lineup": "G Corey Conners G Nicolai Hojgaard G Sahith Theegala G Ryo Hisatsune G Austin Smotherman G Blades Brown"
         },
         {
@@ -1343,7 +1522,7 @@
           "playerId": "brian-hall",
           "playerName": "Brian Hall",
           "dkPoints": 288,
-          "leaguePoints": -2.5,
+          "leaguePoints": -3.5,
           "lineup": "G Justin Thomas G Corey Conners G Sahith Theegala G Patrick Rodgers G Bud Cauley G Austin Smotherman"
         },
         {
@@ -1352,7 +1531,7 @@
           "playerId": "ryan-wermeling",
           "playerName": "Ryan Wermeling",
           "dkPoints": 288,
-          "leaguePoints": -2.5,
+          "leaguePoints": -3.5,
           "lineup": "G Jacob Bridgeman G Nicolai Hojgaard G Nick Taylor G Matthew McCarty G Christiaan Bezuidenhout G Patrick Rodgers"
         },
         {
@@ -1361,7 +1540,7 @@
           "playerId": "michael-lomax",
           "playerName": "Michael Lomax",
           "dkPoints": 287.5,
-          "leaguePoints": -4.5,
+          "leaguePoints": -5.5,
           "lineup": "G Jacob Bridgeman G Nicolai Hojgaard G Nick Taylor G Ricky Castillo G Patrick Rodgers G Taylor Moore"
         },
         {
@@ -1370,7 +1549,7 @@
           "playerId": "justin-dabney",
           "playerName": "Justin Dabney",
           "dkPoints": 270.5,
-          "leaguePoints": -5.5,
+          "leaguePoints": -6.5,
           "lineup": "G Jacob Bridgeman G Nicolai Hojgaard G Sahith Theegala G Ricky Castillo G Taylor Moore G John Parry"
         },
         {
@@ -1379,7 +1558,7 @@
           "playerId": "jonathan-ruppe",
           "playerName": "Jonathan Ruppe",
           "dkPoints": 251.5,
-          "leaguePoints": -6.5,
+          "leaguePoints": -7.5,
           "lineup": "G Corey Conners G Sahith Theegala G Ryo Hisatsune G Nick Taylor G Max Homa G Billy Horschel"
         },
         {
@@ -1388,7 +1567,7 @@
           "playerId": "matt-poe",
           "playerName": "Matt Poe",
           "dkPoints": 238.5,
-          "leaguePoints": -7.5,
+          "leaguePoints": -8.5,
           "lineup": "G Corey Conners G Sahith Theegala G Keegan Bradley G Wyndham Clark G Max Homa G Bud Cauley"
         },
         {
@@ -1397,7 +1576,7 @@
           "playerId": "leah-ruppe",
           "playerName": "Leah Ruppe",
           "dkPoints": 236.5,
-          "leaguePoints": -8.5,
+          "leaguePoints": -9.5,
           "lineup": "G Viktor Hovland G Ryo Hisatsune G Rasmus Hojgaard G Matthew McCarty G Pierceson Coody G Austin Smotherman"
         }
       ]
