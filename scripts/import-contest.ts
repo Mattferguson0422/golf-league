@@ -7,9 +7,9 @@
  * Example:
  *   npm run import:contest -- 2026 "Genesis Open" contests/2026/genesis-open.csv
  *
- * Scoring formula: score = (N-1)/2 - rank
- *   19 players: 1st=+8, 9th=0, 19th=-10
- *   18 players: 1st=+7.5, 8th=+0.5, 9th=-0.5, 18th=-9.5
+ * Scoring formula: score = (N+1)/2 - rank
+ *   19 players: 1st=+9, 10th=0, 19th=-9
+ *   18 players: 1st=+8.5, 9th=+0.5, 18th=-8.5
  */
 
 import fs from "fs";
@@ -72,7 +72,7 @@ const N = entries.length;
 
 const results = entries.map((entry) => {
   const player = usernameMap.get(entry.entryName.toLowerCase());
-  const leaguePoints = (N - 1) / 2 - entry.rank;
+  const leaguePoints = (N + 1) / 2 - entry.rank;
 
   return {
     rank: entry.rank,
