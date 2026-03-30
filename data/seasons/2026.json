@@ -1401,6 +1401,176 @@
           "lineup": "G Viktor Hovland G Ryo Hisatsune G Rasmus Hojgaard G Matthew McCarty G Pierceson Coody G Austin Smotherman"
         }
       ]
+    },
+    {
+      "slug": "houston-open",
+      "name": "Houston Open",
+      "year": 2026,
+      "entrants": 18,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 534.5,
+          "leaguePoints": 8.5,
+          "lineup": "G Min Woo Lee G Brooks Koepka G Jake Knapp G Sahith Theegala G Sudarshan Yellamaraju G Bronson Burgoon"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "L-J_Ruppe",
+          "playerId": "leah-ruppe",
+          "playerName": "Leah Ruppe",
+          "dkPoints": 506,
+          "leaguePoints": 7.5,
+          "lineup": "G Chris Gotterup G Shane Lowry G Rasmus Hojgaard G Jason Day G Sahith Theegala G Tony Finau"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 463.5,
+          "leaguePoints": 6.5,
+          "lineup": "G Nicolai Hojgaard G Adam Scott G Shane Lowry G Ryan Gerard G Sahith Theegala G Christiaan Bezuidenhout"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 460,
+          "leaguePoints": 5.5,
+          "lineup": "G Min Woo Lee G Marco Penge G Ryan Gerard G Keith Mitchell G Sudarshan Yellamaraju G Adrien Dumont De Chassart"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 455,
+          "leaguePoints": 4.5,
+          "lineup": "G Min Woo Lee G Adam Scott G Ryan Gerard G Sahith Theegala G Tony Finau G Jordan L. Smith"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 452,
+          "leaguePoints": 3.5,
+          "lineup": "G Chris Gotterup G Jake Knapp G Marco Penge G Christiaan Bezuidenhout G Tom Kim G Denny McCarthy"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 446.5,
+          "leaguePoints": 2.5,
+          "lineup": "G Min Woo Lee G Chris Gotterup G Stephan Jaeger G Sahith Theegala G Sungjae Im G Max Greyserman"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 443,
+          "leaguePoints": 1.5,
+          "lineup": "G Kurt Kitayama G Adam Scott G Shane Lowry G Sam Stevens G Sahith Theegala G Ryan Fox"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 432,
+          "leaguePoints": 0.5,
+          "lineup": "G Chris Gotterup G Brooks Koepka G Stephan Jaeger G Sahith Theegala G Tony Finau G Jordan L. Smith"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 431,
+          "leaguePoints": -0.5,
+          "lineup": "G Min Woo Lee G Chris Gotterup G Patrick Rodgers G Ricky Castillo G Ryan Fox G Sudarshan Yellamaraju"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 413,
+          "leaguePoints": -1.5,
+          "lineup": "G Chris Gotterup G Adam Scott G Keith Mitchell G Sam Stevens G Ryan Fox G Hao-Tong Li"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 406.5,
+          "leaguePoints": -2.5,
+          "lineup": "G Brooks Koepka G Nicolai Hojgaard G Adam Scott G Sahith Theegala G Ryan Fox G Christiaan Bezuidenhout"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 400.5,
+          "leaguePoints": -3.5,
+          "lineup": "G Rickie Fowler G Adam Scott G Michael Thorbjornsen G Pierceson Coody G Sahith Theegala G Sudarshan Yellamaraju"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 398,
+          "leaguePoints": -4.5,
+          "lineup": "G Jake Knapp G Marco Penge G Michael Thorbjornsen G Sam Stevens G Sungjae Im G Ryan Fox"
+        },
+        {
+          "rank": 15,
+          "dkUsername": "bryans812",
+          "playerId": "brian-segraves",
+          "playerName": "Brian Segraves",
+          "dkPoints": 382.5,
+          "leaguePoints": -5.5,
+          "lineup": "G Brooks Koepka G Jake Knapp G Nicolai Hojgaard G Pierceson Coody G Christiaan Bezuidenhout G Tom Hoge"
+        },
+        {
+          "rank": 16,
+          "dkUsername": "fertown",
+          "playerId": "chris-stroud",
+          "playerName": "Chris Stroud",
+          "dkPoints": 381,
+          "leaguePoints": -6.5,
+          "lineup": "G Chris Gotterup G Jake Knapp G Pierceson Coody G Sahith Theegala G Sungjae Im G Ryan Fox"
+        },
+        {
+          "rank": 17,
+          "dkUsername": "Jason.Elliott",
+          "playerId": "jason-elliott",
+          "playerName": "Jason Elliott",
+          "dkPoints": 332.5,
+          "leaguePoints": -7.5,
+          "lineup": "G Brooks Koepka G Michael Thorbjornsen G Stephan Jaeger G Tony Finau G Sungjae Im G Ryan Fox"
+        },
+        {
+          "rank": 18,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 314.5,
+          "leaguePoints": -8.5,
+          "lineup": "G Min Woo Lee G Brooks Koepka G Ryan Fox G Christiaan Bezuidenhout G Tom Kim G David Lipsky"
+        }
+      ]
     }
   ],
   "standings": [],
