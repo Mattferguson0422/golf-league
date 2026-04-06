@@ -1571,6 +1571,176 @@
           "lineup": "G Min Woo Lee G Brooks Koepka G Ryan Fox G Christiaan Bezuidenhout G Tom Kim G David Lipsky"
         }
       ]
+    },
+    {
+      "slug": "texas-open",
+      "name": "Texas Open",
+      "year": 2026,
+      "entrants": 18,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 480,
+          "leaguePoints": 8.5,
+          "lineup": "G Hideki Matsuyama G Maverick McNealy G Ryo Hisatsune G Nick Taylor G Brian Harman G Tony Finau"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "Freeannyong",
+          "playerId": "michael-tammen",
+          "playerName": "Michael Tammen",
+          "dkPoints": 477,
+          "leaguePoints": 7.5,
+          "lineup": "G Jordan Spieth G Maverick McNealy G Ryo Hisatsune G Sudarshan Yellamaraju G Rico Hoey G Tony Finau"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "Jason.Elliott",
+          "playerId": "jason-elliott",
+          "playerName": "Jason Elliott",
+          "dkPoints": 469,
+          "leaguePoints": 6.5,
+          "lineup": "G Ludvig Aberg G Maverick McNealy G Keith Mitchell G Sudarshan Yellamaraju G Alex Smalley G Bronson Burgoon"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 442,
+          "leaguePoints": 5.5,
+          "lineup": "G Ludvig Aberg G Robert MacIntyre G Keith Mitchell G Sudarshan Yellamaraju G Bronson Burgoon G Carson Young"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 405.5,
+          "leaguePoints": 4.5,
+          "lineup": "G Hideki Matsuyama G Keith Mitchell G Ryo Hisatsune G Sudarshan Yellamaraju G Thorbjorn Olesen G Jordan L. Smith"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 401,
+          "leaguePoints": 3.5,
+          "lineup": "G Si Woo Kim G Michael Thorbjornsen G Ryo Hisatsune G Sudarshan Yellamaraju G John Keefer G Chad Ramey"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 382.5,
+          "leaguePoints": 2.5,
+          "lineup": "G Tommy Fleetwood G Jordan Spieth G Marco Penge G Davis Thompson G Patrick Rodgers G Bud Cauley"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 375.5,
+          "leaguePoints": 1.5,
+          "lineup": "G Sepp Straka G Alex Noren G Ryo Hisatsune G Denny McCarthy G Brian Harman G Bud Cauley"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 373.5,
+          "leaguePoints": 0.5,
+          "lineup": "G Jordan Spieth G Keith Mitchell G Ryo Hisatsune G Sudarshan Yellamaraju G Marco Penge G Patrick Rodgers"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 360.5,
+          "leaguePoints": -0.5,
+          "lineup": "G Si Woo Kim G Jordan Spieth G Michael Thorbjornsen G Sudarshan Yellamaraju G Stephan Jaeger G Karl Vilips"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 353.5,
+          "leaguePoints": -1.5,
+          "lineup": "G Hideki Matsuyama G Maverick McNealy G Rickie Fowler G Nick Taylor G Patrick Rodgers G Tony Finau"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 350,
+          "leaguePoints": -2.5,
+          "lineup": "G Ludvig Aberg G Sepp Straka G Rickie Fowler G Stephan Jaeger G Tony Finau G Hao-Tong Li"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "L-J_Ruppe",
+          "playerId": "leah-ruppe",
+          "playerName": "Leah Ruppe",
+          "dkPoints": 341,
+          "leaguePoints": -3.5,
+          "lineup": "G Tommy Fleetwood G Ryo Hisatsune G Denny McCarthy G John Keefer G Davis Thompson G Patrick Rodgers"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 315,
+          "leaguePoints": -4.5,
+          "lineup": "G Michael Thorbjornsen G Keith Mitchell G Ryo Hisatsune G Denny McCarthy G Sudarshan Yellamaraju G Jordan L. Smith"
+        },
+        {
+          "rank": 15,
+          "dkUsername": "fertown",
+          "playerId": "chris-stroud",
+          "playerName": "Chris Stroud",
+          "dkPoints": 306,
+          "leaguePoints": -5.5,
+          "lineup": "G Hideki Matsuyama G Sepp Straka G Keith Mitchell G Ryo Hisatsune G Tom Kim G Max Homa"
+        },
+        {
+          "rank": 16,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 271,
+          "leaguePoints": -6.5,
+          "lineup": "G Russell Henley G Michael Thorbjornsen G Keith Mitchell G Denny McCarthy G Tony Finau G David Ford"
+        },
+        {
+          "rank": 17,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 250,
+          "leaguePoints": -7.5,
+          "lineup": "G Hideki Matsuyama G Sepp Straka G Rickie Fowler G Jordan L. Smith G Patrick Rodgers G Matthew McCarty"
+        },
+        {
+          "rank": 18,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 217,
+          "leaguePoints": -8.5,
+          "lineup": "G Russell Henley G Hideki Matsuyama G Keith Mitchell G Jordan L. Smith G Patrick Rodgers G Tom Kim"
+        }
+      ]
     }
   ],
   "standings": [],
