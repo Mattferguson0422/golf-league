@@ -33,8 +33,14 @@ interface PayoutTier { entry: number; prizes: number[] }
 // prizes[] = gross prize for 1st, 2nd, 3rd, 4th
 // Net shown on ledger = prize - entry (for cashers) or -entry (for non-cashers)
 const PAYOUT_TIERS: Record<number, number[]> = {
-  2:  [],   // calculated dynamically from pool (see below)
-  10: [110, 55, 35, 20],
+  2:  [18, 8, 6, 4],
+  10: [100, 55, 35, 20],
+};
+
+// Per-tournament overrides for when payouts deviate from the tier
+// (e.g. variable pool sizes). Keyed by contest slug.
+const PAYOUT_OVERRIDES: Record<string, number[]> = {
+  masters: [110, 55, 35, 20], // 22 entrants × $10 = $220 pool
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {
@@ -151,20 +157,21 @@ for (let j = 0; j < tHeaders.length; j++) {
 
   // Find matching contest — try exact slug first, then fuzzy (column name contained in slug)
   const slug = slugify(tName);
+  let matchedSlug = slug;
   let results = contestMap.get(slug);
   if (!results) {
     // e.g. "Players" matches "the-players-championship"
     for (const [s, r] of contestMap) {
-      if (s.includes(slug) || slug.includes(s)) { results = r; break; }
+      if (s.includes(slug) || slug.includes(s)) { results = r; matchedSlug = s; break; }
     }
   }
   if (!results) continue;
 
-  const entryFee = slug === "players" || slug === "the-players-championship"
-    || slug === "masters" || slug === "pga-championship"
-    || slug === "us-open" || slug === "british-open" ? 10 : 2;
+  const entryFee = matchedSlug === "the-players-championship"
+    || matchedSlug === "masters" || matchedSlug === "pga-championship"
+    || matchedSlug === "us-open" || matchedSlug === "british-open" ? 10 : 2;
 
-  const grossPrizes = PAYOUT_TIERS[entryFee] ?? [];
+  const grossPrizes = PAYOUT_OVERRIDES[matchedSlug] ?? PAYOUT_TIERS[entryFee] ?? [];
   if (!grossPrizes.length) {
     console.log(`  skip  "${tName}" — no payout table defined for $${entryFee} entry`);
     continue;
