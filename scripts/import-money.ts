@@ -34,7 +34,7 @@ interface PayoutTier { entry: number; prizes: number[] }
 // Net shown on ledger = prize - entry (for cashers) or -entry (for non-cashers)
 const PAYOUT_TIERS: Record<number, number[]> = {
   2:  [],   // calculated dynamically from pool (see below)
-  10: [100, 55, 35, 20],
+  10: [110, 55, 35, 20],
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {
