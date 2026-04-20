@@ -41,6 +41,7 @@ const PAYOUT_TIERS: Record<number, number[]> = {
 // (e.g. variable pool sizes). Keyed by contest slug.
 const PAYOUT_OVERRIDES: Record<string, number[]> = {
   masters: [110, 55, 35, 20], // 22 entrants × $10 = $220 pool
+  rbc:     [16, 9, 5],        // 15 entrants × $2 = $30 pool
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {
