@@ -2090,6 +2090,95 @@
           "lineup": "G Cameron Young G Jake Knapp G Justin Thomas G Chris Gotterup G Nicolai Hojgaard G Sudarshan Yellamaraju"
         }
       ]
+    },
+    {
+      "slug": "zurich",
+      "name": "Zurich",
+      "year": 2026,
+      "entrants": 9,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 739.5,
+          "leaguePoints": 4,
+          "lineup": "G Matt Fitzpatrick G Aaron Rai G Tom Kim G Christiaan Bezuidenhout G Eric Cole G Billy Horschel"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 692,
+          "leaguePoints": 3,
+          "lineup": "G Ben Griffin G Marco Penge G Mac Meissner G Michael Brennan G Adrien Dumont De Chassart G Billy Horschel"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 690,
+          "leaguePoints": 1.5,
+          "lineup": "G Sahith Theegala G Taylor Moore G Kristoffer Reitan G Hayden Springer G David Lipsky G Chris Kirk"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "Jason.Elliott",
+          "playerId": "jason-elliott",
+          "playerName": "Jason Elliott",
+          "dkPoints": 690,
+          "leaguePoints": 1.5,
+          "lineup": "G Matt Fitzpatrick G Ryan Gerard G Max McGreevy G Seamus Power G Andrew Putnam G Trace Crowe"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 664,
+          "leaguePoints": 0,
+          "lineup": "G Ryan Gerard G Sahith Theegala G Hayden Springer G Kevin Roy G Andrew Putnam G Billy Horschel"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 615,
+          "leaguePoints": -1,
+          "lineup": "G Ryan Gerard G Wyndham Clark G Sam Stevens G Tony Finau G David Lipsky G Christiaan Bezuidenhout"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 603,
+          "leaguePoints": -2,
+          "lineup": "G Ryan Gerard G Aaron Rai G Keith Mitchell G Matti Schmid G David Lipsky G Austin Smotherman"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 559,
+          "leaguePoints": -3,
+          "lineup": "G Brooks Koepka G Sudarshan Yellamaraju G Sahith Theegala G Keith Mitchell G Trace Crowe G Taylor Montgomery"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 458,
+          "leaguePoints": -4,
+          "lineup": "G Andrew Novak G Sahith Theegala G Michael Brennan G Tony Finau G Stephan Jaeger G Austin Smotherman"
+        }
+      ]
     }
   ],
   "standings": [],
@@ -2172,8 +2261,8 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 12,
-      "owed": -60,
+      "entered": 14,
+      "owed": -62,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2189,7 +2278,7 @@
         "Texas Open": -2,
         "Masters": -10,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2286,8 +2375,8 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 12,
-      "owed": 102,
+      "entered": 14,
+      "owed": 100,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2303,7 +2392,7 @@
         "Texas Open": 2,
         "Masters": 10,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2324,8 +2413,8 @@
     },
     {
       "name": "Jason Elliott",
-      "entered": 12,
-      "owed": -49,
+      "entered": 14,
+      "owed": -51,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2341,7 +2430,7 @@
         "Texas Open": 4,
         "Masters": -10,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2400,8 +2489,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 12,
-      "owed": 73,
+      "entered": 14,
+      "owed": 71,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2417,7 +2506,7 @@
         "Texas Open": 16,
         "Masters": 100,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2476,8 +2565,8 @@
     },
     {
       "name": "Justin Ferguson",
-      "entered": 9,
-      "owed": -36,
+      "entered": 11,
+      "owed": -32,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2493,7 +2582,7 @@
         "Texas Open": -2,
         "Masters": -10,
         "RBC": 7,
-        "Zurich": null,
+        "Zurich": 4,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2552,7 +2641,7 @@
     },
     {
       "name": "Leah Ruppe",
-      "entered": 8,
+      "entered": 9,
       "owed": -12,
       "paid": 0,
       "yearlyEntry": -20,
@@ -2590,8 +2679,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 12,
-      "owed": -20,
+      "entered": 14,
+      "owed": -10,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2607,7 +2696,7 @@
         "Texas Open": -2,
         "Masters": -10,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": 10,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2628,8 +2717,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 12,
-      "owed": -41,
+      "entered": 14,
+      "owed": -43,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2645,7 +2734,7 @@
         "Texas Open": -2,
         "Masters": -10,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2704,7 +2793,7 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 12,
+      "entered": 13,
       "owed": -51,
       "paid": 0,
       "yearlyEntry": -20,
@@ -2742,7 +2831,7 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 12,
+      "entered": 13,
       "owed": -40,
       "paid": 0,
       "yearlyEntry": -20,
@@ -2818,7 +2907,7 @@
     },
     {
       "name": "Michael Lomax",
-      "entered": 12,
+      "entered": 13,
       "owed": 1,
       "paid": 0,
       "yearlyEntry": -20,
@@ -2856,7 +2945,7 @@
     },
     {
       "name": "Michael Tammen",
-      "entered": 9,
+      "entered": 10,
       "owed": -37,
       "paid": 0,
       "yearlyEntry": -20,
@@ -2894,8 +2983,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 12,
-      "owed": 23,
+      "entered": 14,
+      "owed": 21,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2911,7 +3000,7 @@
         "Texas Open": -2,
         "Masters": 45,
         "RBC": 14,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2970,8 +3059,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 12,
-      "owed": -2,
+      "entered": 14,
+      "owed": -4,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2987,7 +3076,7 @@
         "Texas Open": -2,
         "Masters": 25,
         "RBC": -2,
-        "Zurich": null,
+        "Zurich": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3046,7 +3135,7 @@
     },
     {
       "name": "Scotty Lewis",
-      "entered": 11,
+      "entered": 12,
       "owed": -13,
       "paid": 0,
       "yearlyEntry": -20,
