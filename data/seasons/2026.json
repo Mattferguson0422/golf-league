@@ -2179,14 +2179,148 @@
           "lineup": "G Andrew Novak G Sahith Theegala G Michael Brennan G Tony Finau G Stephan Jaeger G Austin Smotherman"
         }
       ]
+    },
+    {
+      "slug": "cadillac-championship",
+      "name": "Cadillac Championship",
+      "year": 2026,
+      "entrants": 14,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 523.5,
+          "leaguePoints": 6.5,
+          "lineup": "G Cameron Young G Adam Scott G Jacob Bridgeman G Akshay Bhatia G Sahith Theegala G Gary Woodland"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 514.5,
+          "leaguePoints": 5.5,
+          "lineup": "G Scottie Scheffler G Adam Scott G Gary Woodland G Sam Stevens G Alex Smalley G Jhonattan Vegas"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 508,
+          "leaguePoints": 4.5,
+          "lineup": "G Cameron Young G Hideki Matsuyama G Sepp Straka G Nicolai Hojgaard G Sahith Theegala G Pierceson Coody"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "Jason.Elliott",
+          "playerId": "jason-elliott",
+          "playerName": "Jason Elliott",
+          "dkPoints": 506.5,
+          "leaguePoints": 3.5,
+          "lineup": "G Scottie Scheffler G Kurt Kitayama G Keith Mitchell G Alex Smalley G Sudarshan Yellamaraju G Corey Conners"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 496.5,
+          "leaguePoints": 2.5,
+          "lineup": "G Chris Gotterup G Adam Scott G Jacob Bridgeman G Rickie Fowler G Ben Griffin G Kurt Kitayama"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 491,
+          "leaguePoints": 1.5,
+          "lineup": "G Cameron Young G Hideki Matsuyama G Jacob Bridgeman G Akshay Bhatia G Gary Woodland G Sudarshan Yellamaraju"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 490.5,
+          "leaguePoints": 0.5,
+          "lineup": "G Si Woo Kim G Min Woo Lee G Harris English G Akshay Bhatia G Sepp Straka G Jason Day"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 487,
+          "leaguePoints": -0.5,
+          "lineup": "G Scottie Scheffler G Adam Scott G Nicolai Hojgaard G Ricky Castillo G Alex Fitzpatrick G Patrick Rodgers"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 484.5,
+          "leaguePoints": -1.5,
+          "lineup": "G Tommy Fleetwood G Hideki Matsuyama G Adam Scott G Jordan Spieth G Sahith Theegala G Corey Conners"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 483.5,
+          "leaguePoints": -2.5,
+          "lineup": "G Tommy Fleetwood G Adam Scott G Jacob Bridgeman G Akshay Bhatia G Rickie Fowler G Pierceson Coody"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 437.5,
+          "leaguePoints": -3.5,
+          "lineup": "G Collin Morikawa G Jacob Bridgeman G Rickie Fowler G Nicolai Hojgaard G Shane Lowry G Sam Stevens"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 426,
+          "leaguePoints": -4.5,
+          "lineup": "G Cameron Young G Jake Knapp G Chris Gotterup G Sahith Theegala G Sudarshan Yellamaraju G Andrew Putnam"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 420,
+          "leaguePoints": -5.5,
+          "lineup": "G Tommy Fleetwood G Sam Burns G Harris English G Jacob Bridgeman G Ryo Hisatsune G Sudarshan Yellamaraju"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "Freeannyong",
+          "playerId": "michael-tammen",
+          "playerName": "Michael Tammen",
+          "dkPoints": 401,
+          "leaguePoints": -6.5,
+          "lineup": "G Cameron Young G Jake Knapp G Hideki Matsuyama G Keegan Bradley G Pierceson Coody G Max Homa"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 11,
-      "owed": -51,
+      "entered": 12,
+      "owed": -53,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2203,6 +2337,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2241,6 +2376,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2261,8 +2397,8 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 14,
-      "owed": -62,
+      "entered": 15,
+      "owed": -64,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2279,6 +2415,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2317,6 +2454,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2355,6 +2493,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2375,8 +2514,8 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 14,
-      "owed": 100,
+      "entered": 15,
+      "owed": 98,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2393,6 +2532,7 @@
         "Masters": 10,
         "RBC": -2,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2413,8 +2553,8 @@
     },
     {
       "name": "Jason Elliott",
-      "entered": 14,
-      "owed": -51,
+      "entered": 15,
+      "owed": -53,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2431,6 +2571,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2469,6 +2610,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2489,8 +2631,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 14,
-      "owed": 71,
+      "entered": 15,
+      "owed": 69,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2507,6 +2649,7 @@
         "Masters": 100,
         "RBC": -2,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2545,6 +2688,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2583,6 +2727,7 @@
         "Masters": -10,
         "RBC": 7,
         "Zurich": 4,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2621,6 +2766,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2659,6 +2805,7 @@
         "Masters": -10,
         "RBC": 3,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2679,8 +2826,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 14,
-      "owed": -10,
+      "entered": 15,
+      "owed": 3,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2697,6 +2844,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": 10,
+        "Cadillac Championship": 13,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2717,8 +2865,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 14,
-      "owed": -43,
+      "entered": 15,
+      "owed": -45,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2735,6 +2883,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2773,6 +2922,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2793,8 +2943,8 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 13,
-      "owed": -51,
+      "entered": 14,
+      "owed": -45,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2811,6 +2961,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": null,
+        "Cadillac Championship": 6,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2831,8 +2982,8 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 13,
-      "owed": -40,
+      "entered": 14,
+      "owed": -37,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2849,6 +3000,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": null,
+        "Cadillac Championship": 3,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2887,6 +3039,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2907,8 +3060,8 @@
     },
     {
       "name": "Michael Lomax",
-      "entered": 13,
-      "owed": 1,
+      "entered": 14,
+      "owed": -1,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2925,6 +3078,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": null,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2945,8 +3099,8 @@
     },
     {
       "name": "Michael Tammen",
-      "entered": 10,
-      "owed": -37,
+      "entered": 11,
+      "owed": -39,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2963,6 +3117,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": null,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -2983,8 +3138,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 14,
-      "owed": 21,
+      "entered": 15,
+      "owed": 19,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3001,6 +3156,7 @@
         "Masters": 45,
         "RBC": 14,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3039,6 +3195,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3059,8 +3216,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 14,
-      "owed": -4,
+      "entered": 15,
+      "owed": -6,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3077,6 +3234,7 @@
         "Masters": 25,
         "RBC": -2,
         "Zurich": -2,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3097,8 +3255,8 @@
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 11,
-      "owed": -34,
+      "entered": 12,
+      "owed": -36,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3115,6 +3273,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": -2,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3153,6 +3312,7 @@
         "Masters": -10,
         "RBC": -2,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3191,6 +3351,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3229,6 +3390,7 @@
         "Masters": -10,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
@@ -3267,6 +3429,7 @@
         "Masters": null,
         "RBC": null,
         "Zurich": null,
+        "Cadillac Championship": null,
         "CJ Cup": null,
         "Truist": null,
         "PGA Champ": null,
