@@ -10,6 +10,15 @@ function medal(rank: number) {
   return rank;
 }
 
+const HEADER_OVERRIDES: Record<string, string> = {
+  "PGA Championship": "PGA",
+};
+
+function headerLabel(name: string) {
+  if (HEADER_OVERRIDES[name]) return HEADER_OVERRIDES[name];
+  return name.length > 10 ? name.split(" ").map((w) => w[0]).join("") : name;
+}
+
 // Build unified standings from either the full standings array (historical)
 // or calculated from contest results (live season)
 function buildRows(season: Season) {
@@ -106,7 +115,7 @@ export default function StandingsTable({ season }: { season: Season }) {
                   style={{ color: "#6b8f6d", minWidth: "72px" }}
                   title={t}
                 >
-                  {t.length > 10 ? t.split(" ").map((w) => w[0]).join("") : t}
+                  {headerLabel(t)}
                 </th>
               ))}
             </tr>
