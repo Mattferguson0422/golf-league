@@ -47,6 +47,7 @@ const PAYOUT_OVERRIDES: Record<string, number[]> = {
   truist:  [16, 9, 5],        // 15 entrants × $2 = $30 pool
   "pga-championship": [80, 45, 25], // 15 entrants × $10 = $150 pool
   "cj-cup": [14, 7, 5],       // 13 entrants × $2 = $26 pool
+  "charles-schwab": [12, 6],  // 9 entrants × $2 = $18 pool, 1st/2nd only
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {
