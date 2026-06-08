@@ -2813,14 +2813,157 @@
           "lineup": "G Hideki Matsuyama G Pierceson Coody G Sungjae Im G Sahith Theegala G Max Greyserman G Tony Finau"
         }
       ]
+    },
+    {
+      "slug": "memorial",
+      "name": "Memorial",
+      "year": 2026,
+      "entrants": 15,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 455.5,
+          "leaguePoints": 7,
+          "lineup": "G Ludvig Aberg G Hideki Matsuyama G Maverick McNealy G Chris Gotterup G Justin Rose G Ryan Gerard"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 402.5,
+          "leaguePoints": 6,
+          "lineup": "G Ludvig Aberg G Xander Schauffele G Hideki Matsuyama G Gary Woodland G Alex Noren G Eric Cole"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 384,
+          "leaguePoints": 5,
+          "lineup": "G Cameron Young G Tommy Fleetwood G Kurt Kitayama G Justin Rose G Akshay Bhatia G Wyndham Clark"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 383.5,
+          "leaguePoints": 4,
+          "lineup": "G Cameron Young G Justin Thomas G Chris Gotterup G J.J. Spaun G Nicolai Hojgaard G Wyndham Clark"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "Freeannyong",
+          "playerId": "michael-tammen",
+          "playerName": "Michael Tammen",
+          "dkPoints": 368.5,
+          "leaguePoints": 3,
+          "lineup": "G Scottie Scheffler G Justin Thomas G Chris Gotterup G Pierceson Coody G Alex Fitzpatrick G Sudarshan Yellamaraju"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 364,
+          "leaguePoints": 2,
+          "lineup": "G Patrick Cantlay G Ben Griffin G Justin Thomas G Chris Gotterup G J.J. Spaun G Nick Taylor"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "fertown",
+          "playerId": "chris-stroud",
+          "playerName": "Chris Stroud",
+          "dkPoints": 362.5,
+          "leaguePoints": 1,
+          "lineup": "G Rory McIlroy G Si Woo Kim G Chris Gotterup G Ryo Hisatsune G Sahith Theegala G Daniel Berger"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 344,
+          "leaguePoints": 0,
+          "lineup": "G Cameron Young G Matt Fitzpatrick G Patrick Cantlay G Corey Conners G Nick Taylor G Alex Fitzpatrick"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 323.5,
+          "leaguePoints": -1,
+          "lineup": "G Matt Fitzpatrick G Russell Henley G Ben Griffin G Maverick McNealy G Sepp Straka G Brandt Snedeker"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 313,
+          "leaguePoints": -2,
+          "lineup": "G Xander Schauffele G Hideki Matsuyama G Justin Thomas G Adam Scott G Jordan Spieth G Corey Conners"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 312,
+          "leaguePoints": -3,
+          "lineup": "G Si Woo Kim G Min Woo Lee G Robert MacIntyre G Adam Scott G Harris English G Corey Conners"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 305,
+          "leaguePoints": -4,
+          "lineup": "G Ludvig Aberg G Hideki Matsuyama G Adam Scott G Harris English G Nicolai Hojgaard G Jason Day"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 304,
+          "leaguePoints": -5,
+          "lineup": "G Cameron Young G Si Woo Kim G Alex Smalley G Kurt Kitayama G Gary Woodland G Ryo Hisatsune"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "L-J_Ruppe",
+          "playerId": "leah-ruppe",
+          "playerName": "Leah Ruppe",
+          "dkPoints": 289,
+          "leaguePoints": -6,
+          "lineup": "G Cameron Young G Adam Scott G Jordan Spieth G Kurt Kitayama G Shane Lowry G Jason Day"
+        },
+        {
+          "rank": 15,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 286,
+          "leaguePoints": -7,
+          "lineup": "G Scottie Scheffler G Alex Smalley G Shane Lowry G Akshay Bhatia G Gary Woodland G Michael Kim"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 15,
-      "owed": -54,
+      "entered": 16,
+      "owed": -56,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2841,7 +2984,7 @@
         "PGA Champ": -10,
         "CJ Cup": 5,
         "Charles Schwab": 4,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -2895,8 +3038,8 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 15,
-      "owed": -64,
+      "entered": 16,
+      "owed": -66,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2917,7 +3060,7 @@
         "PGA Champ": null,
         "CJ Cup": null,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -2933,8 +3076,8 @@
     },
     {
       "name": "Chris Stroud",
-      "entered": 10,
-      "owed": -29,
+      "entered": 11,
+      "owed": -31,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2955,7 +3098,7 @@
         "PGA Champ": null,
         "CJ Cup": -2,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3123,8 +3266,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 18,
-      "owed": 55,
+      "entered": 19,
+      "owed": 53,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3145,7 +3288,7 @@
         "PGA Champ": -10,
         "CJ Cup": -2,
         "Charles Schwab": -2,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3199,8 +3342,8 @@
     },
     {
       "name": "Justin Ferguson",
-      "entered": 14,
-      "owed": -37,
+      "entered": 15,
+      "owed": -39,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3221,7 +3364,7 @@
         "PGA Champ": -10,
         "CJ Cup": -2,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3275,8 +3418,8 @@
     },
     {
       "name": "Leah Ruppe",
-      "entered": 9,
-      "owed": -12,
+      "entered": 10,
+      "owed": -14,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3297,7 +3440,7 @@
         "PGA Champ": null,
         "CJ Cup": null,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3313,8 +3456,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 18,
-      "owed": 59,
+      "entered": 19,
+      "owed": 57,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3335,7 +3478,7 @@
         "PGA Champ": 70,
         "CJ Cup": 3,
         "Charles Schwab": -2,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3351,8 +3494,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 18,
-      "owed": 2,
+      "entered": 19,
+      "owed": 16,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3373,7 +3516,7 @@
         "PGA Champ": 35,
         "CJ Cup": -2,
         "Charles Schwab": -2,
-        "Memorial": null,
+        "Memorial": 14,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3427,8 +3570,8 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 16,
-      "owed": -40,
+      "entered": 17,
+      "owed": -33,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3449,7 +3592,7 @@
         "PGA Champ": 15,
         "CJ Cup": -2,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": 7,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3465,8 +3608,8 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 17,
-      "owed": -42,
+      "entered": 18,
+      "owed": -44,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3487,7 +3630,7 @@
         "PGA Champ": -10,
         "CJ Cup": 12,
         "Charles Schwab": -2,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3579,8 +3722,8 @@
     },
     {
       "name": "Michael Tammen",
-      "entered": 10,
-      "owed": -37,
+      "entered": 11,
+      "owed": -39,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3601,7 +3744,7 @@
         "PGA Champ": null,
         "CJ Cup": null,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3617,8 +3760,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 18,
-      "owed": 5,
+      "entered": 19,
+      "owed": 3,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3639,7 +3782,7 @@
         "PGA Champ": -10,
         "CJ Cup": -2,
         "Charles Schwab": -2,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3693,8 +3836,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 18,
-      "owed": -3,
+      "entered": 19,
+      "owed": -5,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3715,7 +3858,7 @@
         "PGA Champ": -10,
         "CJ Cup": -2,
         "Charles Schwab": 10,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3731,8 +3874,8 @@
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 15,
-      "owed": -50,
+      "entered": 16,
+      "owed": -52,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3753,7 +3896,7 @@
         "PGA Champ": -10,
         "CJ Cup": -2,
         "Charles Schwab": -2,
-        "Memorial": null,
+        "Memorial": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3769,8 +3912,8 @@
     },
     {
       "name": "Scotty Lewis",
-      "entered": 13,
-      "owed": -15,
+      "entered": 14,
+      "owed": -12,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3791,7 +3934,7 @@
         "PGA Champ": null,
         "CJ Cup": null,
         "Charles Schwab": null,
-        "Memorial": null,
+        "Memorial": 3,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
