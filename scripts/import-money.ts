@@ -49,6 +49,7 @@ const PAYOUT_OVERRIDES: Record<string, number[]> = {
   "cj-cup": [14, 7, 5],       // 13 entrants × $2 = $26 pool
   "charles-schwab": [12, 6],  // 9 entrants × $2 = $18 pool, 1st/2nd only
   memorial: [16, 9, 5],       // 15 entrants × $2 = $30 pool
+  "rbc-canadian-open": [13, 7, 4], // 12 entrants × $2 = $24 pool
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {

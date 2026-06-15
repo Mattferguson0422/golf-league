@@ -2956,14 +2956,130 @@
           "lineup": "G Scottie Scheffler G Alex Smalley G Shane Lowry G Akshay Bhatia G Gary Woodland G Michael Kim"
         }
       ]
+    },
+    {
+      "slug": "rbc-canadian-open",
+      "name": "RBC Canadian Open",
+      "year": 2026,
+      "entrants": 12,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 490,
+          "leaguePoints": 5.5,
+          "lineup": "G Shane Lowry G Kristoffer Reitan G Alex Fitzpatrick G Nick Taylor G Ryan Fox G Sudarshan Yellamaraju"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 464,
+          "leaguePoints": 4.5,
+          "lineup": "G Matt Fitzpatrick G Kristoffer Reitan G Alex Fitzpatrick G Matt Wallace G Max Homa G Tom Kim"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 457,
+          "leaguePoints": 3.5,
+          "lineup": "G Collin Morikawa G Shane Lowry G Eric Cole G Ryan Fox G Bud Cauley G Matti Schmid"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 440,
+          "leaguePoints": 2.5,
+          "lineup": "G Tommy Fleetwood G Wyndham Clark G Ryan Fox G Corey Conners G Andrew Putnam G Jackson Suber"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "Freeannyong",
+          "playerId": "michael-tammen",
+          "playerName": "Michael Tammen",
+          "dkPoints": 421,
+          "leaguePoints": 1.5,
+          "lineup": "G Brooks Koepka G Nicolai Hojgaard G Kristoffer Reitan G Ryan Fox G Tony Finau G Tom Kim"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 418,
+          "leaguePoints": 0.5,
+          "lineup": "G Tommy Fleetwood G Aaron Rai G Jacob Bridgeman G Nick Taylor G Sahith Theegala G Tony Finau"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 392,
+          "leaguePoints": -0.5,
+          "lineup": "G Sam Burns G Kristoffer Reitan G Alex Fitzpatrick G Ryan Fox G Andrew Putnam G Matti Schmid"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 368.5,
+          "leaguePoints": -1.5,
+          "lineup": "G Collin Morikawa G Alex Fitzpatrick G Aaron Rai G Jacob Bridgeman G Christiaan Bezuidenhout G Andrew Putnam"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 352.5,
+          "leaguePoints": -2.5,
+          "lineup": "G Kristoffer Reitan G Alex Fitzpatrick G Aaron Rai G Nick Taylor G Eric Cole G Sahith Theegala"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 309,
+          "leaguePoints": -3.5,
+          "lineup": "G Nicolai Hojgaard G Kristoffer Reitan G Keith Mitchell G Nick Taylor G Eric Cole G Corey Conners"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 303,
+          "leaguePoints": -4.5,
+          "lineup": "G Justin Rose G Alex Fitzpatrick G Aaron Rai G Nick Taylor G Sahith Theegala G Corey Conners"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 264.5,
+          "leaguePoints": -5.5,
+          "lineup": "G Tommy Fleetwood G Aaron Rai G Eric Cole G Corey Conners G Christiaan Bezuidenhout G Stephan Jaeger"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 16,
-      "owed": -56,
+      "entered": 17,
+      "owed": -58,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -2985,6 +3101,7 @@
         "CJ Cup": 5,
         "Charles Schwab": 4,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3023,6 +3140,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3038,8 +3156,8 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 16,
-      "owed": -66,
+      "entered": 17,
+      "owed": -68,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3061,6 +3179,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3099,6 +3218,7 @@
         "CJ Cup": -2,
         "Charles Schwab": null,
         "Memorial": -2,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3137,6 +3257,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3152,8 +3273,8 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 18,
-      "owed": 84,
+      "entered": 19,
+      "owed": 82,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3175,6 +3296,7 @@
         "CJ Cup": -2,
         "Charles Schwab": -2,
         "Memorial": null,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3213,6 +3335,7 @@
         "CJ Cup": -2,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3251,6 +3374,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3266,8 +3390,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 19,
-      "owed": 53,
+      "entered": 20,
+      "owed": 51,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3289,6 +3413,7 @@
         "CJ Cup": -2,
         "Charles Schwab": -2,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3327,6 +3452,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3365,6 +3491,7 @@
         "CJ Cup": -2,
         "Charles Schwab": null,
         "Memorial": -2,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3403,6 +3530,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3441,6 +3569,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": -2,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3456,8 +3585,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 19,
-      "owed": 57,
+      "entered": 20,
+      "owed": 55,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3479,6 +3608,7 @@
         "CJ Cup": 3,
         "Charles Schwab": -2,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3494,8 +3624,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 19,
-      "owed": 16,
+      "entered": 20,
+      "owed": 27,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3517,6 +3647,7 @@
         "CJ Cup": -2,
         "Charles Schwab": -2,
         "Memorial": 14,
+        "RBC Canadian Open": 11,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3555,6 +3686,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3570,8 +3702,8 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 17,
-      "owed": -33,
+      "entered": 18,
+      "owed": -35,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3593,6 +3725,7 @@
         "CJ Cup": -2,
         "Charles Schwab": null,
         "Memorial": 7,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3608,8 +3741,8 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 18,
-      "owed": -44,
+      "entered": 19,
+      "owed": -46,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3631,6 +3764,7 @@
         "CJ Cup": 12,
         "Charles Schwab": -2,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3669,6 +3803,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3707,6 +3842,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3722,8 +3858,8 @@
     },
     {
       "name": "Michael Tammen",
-      "entered": 11,
-      "owed": -39,
+      "entered": 12,
+      "owed": -41,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3745,6 +3881,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3760,8 +3897,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 19,
-      "owed": 3,
+      "entered": 20,
+      "owed": 5,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3783,6 +3920,7 @@
         "CJ Cup": -2,
         "Charles Schwab": -2,
         "Memorial": -2,
+        "RBC Canadian Open": 2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3821,6 +3959,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3836,8 +3975,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 19,
-      "owed": -5,
+      "entered": 20,
+      "owed": 0,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3859,6 +3998,7 @@
         "CJ Cup": -2,
         "Charles Schwab": 10,
         "Memorial": -2,
+        "RBC Canadian Open": 5,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3874,8 +4014,8 @@
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 16,
-      "owed": -52,
+      "entered": 17,
+      "owed": -54,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3897,6 +4037,7 @@
         "CJ Cup": -2,
         "Charles Schwab": -2,
         "Memorial": -2,
+        "RBC Canadian Open": -2,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3935,6 +4076,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": 3,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -3973,6 +4115,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -4011,6 +4154,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
@@ -4049,6 +4193,7 @@
         "CJ Cup": null,
         "Charles Schwab": null,
         "Memorial": null,
+        "RBC Canadian Open": null,
         "US Open": null,
         "Travelers": null,
         "Rocket": null,
