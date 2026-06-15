@@ -9,7 +9,8 @@
     "lint": "eslint",
     "import:season": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-season.ts",
     "import:contest": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-contest.ts",
-    "import:money": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-money.ts"
+    "import:money": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-money.ts",
+    "import:contest-money": "ts-node --compiler-options '{\"module\":\"CommonJS\"}' scripts/import-contest-money.ts"
   },
   "dependencies": {
     "@types/papaparse": "^5.5.2",
