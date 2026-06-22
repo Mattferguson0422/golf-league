@@ -3072,14 +3072,184 @@
           "lineup": "G Tommy Fleetwood G Aaron Rai G Eric Cole G Corey Conners G Christiaan Bezuidenhout G Stephan Jaeger"
         }
       ]
+    },
+    {
+      "slug": "us-open",
+      "name": "US Open",
+      "year": 2026,
+      "entrants": 18,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "fertown",
+          "playerId": "chris-stroud",
+          "playerName": "Chris Stroud",
+          "dkPoints": 363.5,
+          "leaguePoints": 8.5,
+          "lineup": "G Xander Schauffele G Tommy Fleetwood G Tyrrell Hatton G Wyndham Clark G Shane Lowry G Alex Fitzpatrick"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 351.5,
+          "leaguePoints": 7.5,
+          "lineup": "G Ludvig Aberg G Matt Fitzpatrick G Tyrrell Hatton G Collin Morikawa G Wyndham Clark G Min Woo Lee"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "trentdehate",
+          "playerId": "trent-dehate",
+          "playerName": "Trent DeHate",
+          "dkPoints": 314.5,
+          "leaguePoints": 6.5,
+          "lineup": "G Tommy Fleetwood G Ludvig Aberg G Matt Fitzpatrick G Patrick Reed G Sam Burns G Alex Fitzpatrick"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 296,
+          "leaguePoints": 5.5,
+          "lineup": "G Xander Schauffele G Matt Fitzpatrick G Russell Henley G Patrick Reed G Wyndham Clark G Patrick Cantlay"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 294,
+          "leaguePoints": 4.5,
+          "lineup": "G Xander Schauffele G Tommy Fleetwood G Chris Gotterup G Sam Burns G Hideki Matsuyama G Harris English"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 293,
+          "leaguePoints": 3.5,
+          "lineup": "G Cameron Young G Tommy Fleetwood G Viktor Hovland G Sam Burns G Hideki Matsuyama G Sahith Theegala"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "Freeannyong",
+          "playerId": "michael-tammen",
+          "playerName": "Michael Tammen",
+          "dkPoints": 291.5,
+          "leaguePoints": 2.5,
+          "lineup": "G Xander Schauffele G Ludvig Aberg G Tyrrell Hatton G Chris Gotterup G Sepp Straka G Keegan Bradley"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 275.5,
+          "leaguePoints": 1.5,
+          "lineup": "G Scottie Scheffler G Wyndham Clark G Shane Lowry G Cameron Smith G Adam Scott G Kurt Kitayama"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 267.5,
+          "leaguePoints": 0.5,
+          "lineup": "G Cameron Young G Tommy Fleetwood G Russell Henley G Sam Burns G Si Woo Kim G Cameron Smith"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 263,
+          "leaguePoints": -0.5,
+          "lineup": "G Rory McIlroy G Cameron Young G Hideki Matsuyama G Rickie Fowler G Jacob Bridgeman G Jackson Koivun"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "trmcmaha",
+          "playerId": "trent-mcmahan",
+          "playerName": "Trent McMahan",
+          "dkPoints": 260,
+          "leaguePoints": -1.5,
+          "lineup": "G Jon Rahm G Justin Rose G Justin Thomas G Patrick Reed G Jordan Spieth G Sahith Theegala"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 256,
+          "leaguePoints": -3,
+          "lineup": "G Rory McIlroy G Russell Henley G Sam Burns G Hideki Matsuyama G Si Woo Kim G Cameron Smith"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 256,
+          "leaguePoints": -3,
+          "lineup": "G Scottie Scheffler G J.J. Spaun G Patrick Cantlay G Cameron Smith G Aaron Rai G Dustin Johnson"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 250.5,
+          "leaguePoints": -4.5,
+          "lineup": "G Jon Rahm G Matt Fitzpatrick G Tyrrell Hatton G Hideki Matsuyama G Min Woo Lee G Sahith Theegala"
+        },
+        {
+          "rank": 15,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 238.5,
+          "leaguePoints": -5.5,
+          "lineup": "G Cameron Young G Matt Fitzpatrick G Justin Rose G Patrick Cantlay G Si Woo Kim G Jordan Spieth"
+        },
+        {
+          "rank": 16,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 220.5,
+          "leaguePoints": -6.5,
+          "lineup": "G Cameron Young G Matt Fitzpatrick G Justin Thomas G Patrick Reed G Si Woo Kim G Ryan Gerard"
+        },
+        {
+          "rank": 17,
+          "dkUsername": "bryans812",
+          "playerId": "brian-segraves",
+          "playerName": "Brian Segraves",
+          "dkPoints": 215,
+          "leaguePoints": -7.5,
+          "lineup": "G Tommy Fleetwood G Brooks Koepka G Collin Morikawa G Patrick Reed G Patrick Cantlay G Jordan Spieth"
+        },
+        {
+          "rank": 18,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 211,
+          "leaguePoints": -8.5,
+          "lineup": "G Cameron Young G Matt Fitzpatrick G Chris Gotterup G Patrick Reed G Hideki Matsuyama G Jake Knapp"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 17,
-      "owed": -58,
+      "entered": 18,
+      "owed": -68,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3102,7 +3272,7 @@
         "Charles Schwab": 4,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3117,8 +3287,8 @@
     },
     {
       "name": "Brian Segraves",
-      "entered": 7,
-      "owed": -30,
+      "entered": 8,
+      "owed": -40,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3141,7 +3311,7 @@
         "Charles Schwab": null,
         "Memorial": null,
         "RBC Canadian Open": null,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3156,8 +3326,8 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 17,
-      "owed": -68,
+      "entered": 18,
+      "owed": -78,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3180,7 +3350,7 @@
         "Charles Schwab": null,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3195,8 +3365,8 @@
     },
     {
       "name": "Chris Stroud",
-      "entered": 11,
-      "owed": -31,
+      "entered": 12,
+      "owed": 49,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3219,7 +3389,7 @@
         "Charles Schwab": null,
         "Memorial": -2,
         "RBC Canadian Open": null,
-        "US Open": null,
+        "US Open": 80,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3273,7 +3443,7 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 19,
+      "entered": 20,
       "owed": 82,
       "paid": 0,
       "yearlyEntry": -20,
@@ -3297,7 +3467,7 @@
         "Charles Schwab": -2,
         "Memorial": null,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": 0,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3390,8 +3560,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 20,
-      "owed": 51,
+      "entered": 21,
+      "owed": 41,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3414,7 +3584,7 @@
         "Charles Schwab": -2,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3468,8 +3638,8 @@
     },
     {
       "name": "Justin Ferguson",
-      "entered": 15,
-      "owed": -39,
+      "entered": 16,
+      "owed": -49,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3492,7 +3662,7 @@
         "Charles Schwab": null,
         "Memorial": -2,
         "RBC Canadian Open": null,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3585,8 +3755,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 20,
-      "owed": 55,
+      "entered": 21,
+      "owed": 45,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3609,7 +3779,7 @@
         "Charles Schwab": -2,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3624,8 +3794,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 20,
-      "owed": 27,
+      "entered": 21,
+      "owed": 17,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3648,7 +3818,7 @@
         "Charles Schwab": -2,
         "Memorial": 14,
         "RBC Canadian Open": 11,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3702,8 +3872,8 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 18,
-      "owed": -35,
+      "entered": 19,
+      "owed": -45,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3726,7 +3896,7 @@
         "Charles Schwab": null,
         "Memorial": 7,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3741,8 +3911,8 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 19,
-      "owed": -46,
+      "entered": 20,
+      "owed": -56,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3765,7 +3935,7 @@
         "Charles Schwab": -2,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3858,8 +4028,8 @@
     },
     {
       "name": "Michael Tammen",
-      "entered": 12,
-      "owed": -41,
+      "entered": 13,
+      "owed": -51,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3882,7 +4052,7 @@
         "Charles Schwab": null,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3897,8 +4067,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 20,
-      "owed": 5,
+      "entered": 21,
+      "owed": 45,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3921,7 +4091,7 @@
         "Charles Schwab": -2,
         "Memorial": -2,
         "RBC Canadian Open": 2,
-        "US Open": null,
+        "US Open": 40,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -3975,8 +4145,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 20,
-      "owed": 0,
+      "entered": 21,
+      "owed": -10,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3999,7 +4169,7 @@
         "Charles Schwab": 10,
         "Memorial": -2,
         "RBC Canadian Open": 5,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -4014,8 +4184,8 @@
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 17,
-      "owed": -54,
+      "entered": 18,
+      "owed": -64,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4038,7 +4208,7 @@
         "Charles Schwab": -2,
         "Memorial": -2,
         "RBC Canadian Open": -2,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -4053,8 +4223,8 @@
     },
     {
       "name": "Scotty Lewis",
-      "entered": 14,
-      "owed": -12,
+      "entered": 15,
+      "owed": -22,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4077,7 +4247,7 @@
         "Charles Schwab": null,
         "Memorial": 3,
         "RBC Canadian Open": null,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -4092,8 +4262,8 @@
     },
     {
       "name": "Trent DeHate",
-      "entered": 3,
-      "owed": -50,
+      "entered": 4,
+      "owed": -30,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4116,7 +4286,7 @@
         "Charles Schwab": null,
         "Memorial": null,
         "RBC Canadian Open": null,
-        "US Open": null,
+        "US Open": 20,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
@@ -4131,8 +4301,8 @@
     },
     {
       "name": "Trent McMahan",
-      "entered": 1,
-      "owed": -10,
+      "entered": 2,
+      "owed": -20,
       "paid": 0,
       "yearlyEntry": 0,
       "tournaments": {
@@ -4155,7 +4325,7 @@
         "Charles Schwab": null,
         "Memorial": null,
         "RBC Canadian Open": null,
-        "US Open": null,
+        "US Open": -10,
         "Travelers": null,
         "Rocket": null,
         "Scottish": null,
