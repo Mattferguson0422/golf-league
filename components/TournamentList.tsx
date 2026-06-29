@@ -19,7 +19,7 @@ function EntryFeeTag({ entryFee }: { entryFee: number }) {
   );
 }
 
-const MAJORS = ["players", "masters", "pga-championship", "us-open", "british-open"];
+const MAJORS = ["the-players-championship", "masters", "pga-championship", "us-open", "british-open"];
 
 export default function TournamentList({
   tournaments,

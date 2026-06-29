@@ -11,7 +11,7 @@
     "formula": "midpoint_minus_rank",
     "standardEntryFee": 2,
     "majorEntryFee": 10,
-    "majors": ["players", "masters", "pga-championship", "us-open", "british-open"]
+    "majors": ["the-players-championship", "masters", "pga-championship", "us-open", "british-open"]
   },
   "currentSeason": 2026
 }
