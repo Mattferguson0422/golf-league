@@ -53,6 +53,7 @@ const PAYOUT_OVERRIDES: Record<string, number[]> = {
   "us-open": [90, 50, 30, 10], // 18 entrants × $10 = $180 pool
   "travelers-championship": [15, 8, 5], // 14 entrants × $2 = $28 pool
   "scottish-open": [15, 8, 5], // 14 entrants × $2 = $28 pool
+  "british-open": [80, 45, 25, 10], // 16 entrants × $10 = $160 pool
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {

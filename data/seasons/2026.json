@@ -3510,14 +3510,166 @@
           "lineup": "G Chris Gotterup G Tyrrell Hatton G Brooks Koepka G Kristoffer Reitan G Aaron Rai G Jake Knapp"
         }
       ]
+    },
+    {
+      "slug": "british-open",
+      "name": "British Open",
+      "year": 2026,
+      "entrants": 16,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 405.5,
+          "leaguePoints": 7.5,
+          "lineup": "G Rory McIlroy G Cameron Young G Wyndham Clark G Russell Henley G Marco Penge G Kristoffer Reitan"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 395.5,
+          "leaguePoints": 6.5,
+          "lineup": "G Jon Rahm G Cameron Young G Tyrrell Hatton G Robert MacIntyre G Justin Thomas G Hideki Matsuyama"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 356,
+          "leaguePoints": 5.5,
+          "lineup": "G Tommy Fleetwood G Chris Gotterup G Viktor Hovland G Robert MacIntyre G Sam Burns G Tom Kim"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 350.5,
+          "leaguePoints": 4.5,
+          "lineup": "G Matt Fitzpatrick G Cameron Young G Chris Gotterup G Viktor Hovland G Russell Henley G Rickie Fowler"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 346.5,
+          "leaguePoints": 3.5,
+          "lineup": "G Tommy Fleetwood G Matt Fitzpatrick G Robert MacIntyre G Russell Henley G Si Woo Kim G Tom Kim"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "trentdehate",
+          "playerId": "trent-dehate",
+          "playerName": "Trent DeHate",
+          "dkPoints": 330,
+          "leaguePoints": 2.5,
+          "lineup": "G Matt Fitzpatrick G Collin Morikawa G Wyndham Clark G Shane Lowry G Sam Burns G Alex Fitzpatrick"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 323.5,
+          "leaguePoints": 1.5,
+          "lineup": "G Rory McIlroy G Ludvig Aberg G Justin Rose G Tom Kim G Adam Scott G Matt Wallace"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 314.5,
+          "leaguePoints": 0.5,
+          "lineup": "G Scottie Scheffler G Matt Fitzpatrick G Patrick Reed G Tom Kim G Brian Harman G Ryan Fox"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 313,
+          "leaguePoints": -0.5,
+          "lineup": "G Tommy Fleetwood G Matt Fitzpatrick G Chris Gotterup G Patrick Reed G Min Woo Lee G Tom Kim"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 311.5,
+          "leaguePoints": -1.5,
+          "lineup": "G Rory McIlroy G Matt Fitzpatrick G Robert MacIntyre G Patrick Reed G Si Woo Kim G Keith Mitchell"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 292,
+          "leaguePoints": -2.5,
+          "lineup": "G Matt Fitzpatrick G Cameron Young G Wyndham Clark G Robert MacIntyre G Justin Thomas G Joaquin Niemann"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 285.5,
+          "leaguePoints": -3.5,
+          "lineup": "G Rory McIlroy G Xander Schauffele G Chris Gotterup G Alex Fitzpatrick G Gary Woodland G Keith Mitchell"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 285,
+          "leaguePoints": -4.5,
+          "lineup": "G Tommy Fleetwood G Matt Fitzpatrick G Hideki Matsuyama G J.J. Spaun G Brian Harman G Nicolai Hojgaard"
+        },
+        {
+          "rank": 14,
+          "dkUsername": "fertown",
+          "playerId": "chris-stroud",
+          "playerName": "Chris Stroud",
+          "dkPoints": 284.5,
+          "leaguePoints": -5.5,
+          "lineup": "G Matt Fitzpatrick G Tyrrell Hatton G Collin Morikawa G Robert MacIntyre G Justin Thomas G Tom Kim"
+        },
+        {
+          "rank": 15,
+          "dkUsername": "fer21gie",
+          "playerId": "justin-ferguson",
+          "playerName": "Justin Ferguson",
+          "dkPoints": 277.5,
+          "leaguePoints": -6.5,
+          "lineup": "G Xander Schauffele G Tyrrell Hatton G Chris Gotterup G Robert MacIntyre G Joaquin Niemann G Jordan Spieth"
+        },
+        {
+          "rank": 16,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 243,
+          "leaguePoints": -7.5,
+          "lineup": "G Scottie Scheffler G Justin Rose G Wyndham Clark G Tom Kim G Kurt Kitayama G Sam Stevens"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 21,
-      "owed": -59,
+      "entered": 22,
+      "owed": -24,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3544,7 +3696,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": 13,
-        "British Open": null,
+        "British Open": 35,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3596,7 +3748,7 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 20,
+      "entered": 21,
       "owed": -82,
       "paid": 0,
       "yearlyEntry": -20,
@@ -3624,7 +3776,7 @@
         "US Open": -10,
         "Travelers": null,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": 0,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3636,8 +3788,8 @@
     },
     {
       "name": "Chris Stroud",
-      "entered": 14,
-      "owed": 60,
+      "entered": 15,
+      "owed": 50,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3664,7 +3816,7 @@
         "US Open": 80,
         "Travelers": 13,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3716,8 +3868,8 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 23,
-      "owed": 76,
+      "entered": 24,
+      "owed": 66,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3744,7 +3896,7 @@
         "US Open": 0,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3836,8 +3988,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 24,
-      "owed": 43,
+      "entered": 25,
+      "owed": 58,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3864,7 +4016,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": 6,
-        "British Open": null,
+        "British Open": 15,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3916,8 +4068,8 @@
     },
     {
       "name": "Justin Ferguson",
-      "entered": 18,
-      "owed": -53,
+      "entered": 19,
+      "owed": -63,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3944,7 +4096,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4036,8 +4188,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 24,
-      "owed": 59,
+      "entered": 25,
+      "owed": 49,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4064,7 +4216,7 @@
         "US Open": -10,
         "Travelers": 3,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4076,8 +4228,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 24,
-      "owed": 11,
+      "entered": 25,
+      "owed": 1,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4104,7 +4256,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4156,8 +4308,8 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 22,
-      "owed": -43,
+      "entered": 23,
+      "owed": -53,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4184,7 +4336,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4196,8 +4348,8 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 23,
-      "owed": -49,
+      "entered": 24,
+      "owed": -59,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4224,7 +4376,7 @@
         "US Open": -10,
         "Travelers": 6,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4276,8 +4428,8 @@
     },
     {
       "name": "Michael Lomax",
-      "entered": 16,
-      "owed": -13,
+      "entered": 17,
+      "owed": 57,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4304,7 +4456,7 @@
         "US Open": null,
         "Travelers": null,
         "Scottish": null,
-        "British Open": null,
+        "British Open": 70,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4356,8 +4508,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 24,
-      "owed": 39,
+      "entered": 25,
+      "owed": 29,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4384,7 +4536,7 @@
         "US Open": 40,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4436,8 +4588,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 24,
-      "owed": -11,
+      "entered": 25,
+      "owed": -21,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4464,7 +4616,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": 3,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4476,8 +4628,8 @@
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 21,
-      "owed": -70,
+      "entered": 22,
+      "owed": -80,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4504,7 +4656,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4516,8 +4668,8 @@
     },
     {
       "name": "Scotty Lewis",
-      "entered": 17,
-      "owed": -26,
+      "entered": 18,
+      "owed": -36,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4544,7 +4696,7 @@
         "US Open": -10,
         "Travelers": -2,
         "Scottish": -2,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4556,8 +4708,8 @@
     },
     {
       "name": "Trent DeHate",
-      "entered": 4,
-      "owed": -30,
+      "entered": 5,
+      "owed": -40,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4584,7 +4736,7 @@
         "US Open": 20,
         "Travelers": null,
         "Scottish": null,
-        "British Open": null,
+        "British Open": -10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
