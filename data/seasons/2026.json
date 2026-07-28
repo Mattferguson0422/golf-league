@@ -3662,14 +3662,121 @@
           "lineup": "G Scottie Scheffler G Justin Rose G Wyndham Clark G Tom Kim G Kurt Kitayama G Sam Stevens"
         }
       ]
+    },
+    {
+      "slug": "3m-open",
+      "name": "3M Open",
+      "year": 2026,
+      "entrants": 11,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 515.5,
+          "leaguePoints": 5,
+          "lineup": "G Hideki Matsuyama G Corey Conners G Jordan L. Smith G Benjamin James G Rasmus Neergaard-Petersen G Ben Kohles"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 481,
+          "leaguePoints": 4,
+          "lineup": "G Kurt Kitayama G Tom Kim G Corey Conners G Christiaan Bezuidenhout G Taylor Pendrith G Zac Blair"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 470,
+          "leaguePoints": 3,
+          "lineup": "G Maverick McNealy G Tom Kim G Gary Woodland G Sudarshan Yellamaraju G Brian Harman G Harry Higgs"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 445,
+          "leaguePoints": 2,
+          "lineup": "G Hideki Matsuyama G Corey Conners G Max Homa G Aldrich Potgieter G Casey Jarvis G Ben Kohles"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 410.5,
+          "leaguePoints": 1,
+          "lineup": "G Keith Mitchell G Jackson Koivun G Jackson Suber G Benjamin James G Rasmus Neergaard-Petersen G David Skinns"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 405,
+          "leaguePoints": 0,
+          "lineup": "G Tom Kim G Jackson Suber G Corey Conners G Sungjae Im G Casey Jarvis G Ben Kohles"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 398.5,
+          "leaguePoints": -1,
+          "lineup": "G Hideki Matsuyama G Corey Conners G Mac Meissner G Benjamin James G Christiaan Bezuidenhout G Stephan Jaeger"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 383.5,
+          "leaguePoints": -2,
+          "lineup": "G Tom Kim G Corey Conners G Sam Stevens G Tony Finau G Christiaan Bezuidenhout G Rasmus H?jgaard"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 357,
+          "leaguePoints": -3,
+          "lineup": "G Kurt Kitayama G Jackson Suber G Corey Conners G Benjamin James G Rasmus Neergaard-Petersen G Tom Hoge"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 352,
+          "leaguePoints": -4,
+          "lineup": "G Jake Knapp G Pierceson Coody G Corey Conners G Benjamin James G Christiaan Bezuidenhout G Tom Hoge"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 284.5,
+          "leaguePoints": -5,
+          "lineup": "G Maverick McNealy G Sam Stevens G Tony Finau G Sudarshan Yellamaraju G Aldrich Potgieter G Stephan Jaeger"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 22,
-      "owed": -24,
+      "entered": 23,
+      "owed": -26,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3697,6 +3804,7 @@
         "Travelers": -2,
         "Scottish": 13,
         "British Open": 35,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3737,6 +3845,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3777,6 +3886,7 @@
         "Travelers": null,
         "Scottish": -2,
         "British Open": 0,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3817,6 +3927,7 @@
         "Travelers": 13,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3857,6 +3968,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3868,8 +3980,8 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 24,
-      "owed": 66,
+      "entered": 25,
+      "owed": 64,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -3897,6 +4009,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3937,6 +4050,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3977,6 +4091,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -3988,8 +4103,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 25,
-      "owed": 58,
+      "entered": 26,
+      "owed": 68,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4017,6 +4132,7 @@
         "Travelers": -2,
         "Scottish": 6,
         "British Open": 15,
+        "3M Open": 10,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4057,6 +4173,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4097,6 +4214,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4137,6 +4255,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4177,6 +4296,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4188,8 +4308,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 25,
-      "owed": 49,
+      "entered": 26,
+      "owed": 47,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4217,6 +4337,7 @@
         "Travelers": 3,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4228,8 +4349,8 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 25,
-      "owed": 1,
+      "entered": 26,
+      "owed": 3,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4257,6 +4378,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": 2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4297,6 +4419,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4337,6 +4460,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4348,8 +4472,8 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 24,
-      "owed": -59,
+      "entered": 25,
+      "owed": -61,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4377,6 +4501,7 @@
         "Travelers": 6,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4417,6 +4542,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4428,8 +4554,8 @@
     },
     {
       "name": "Michael Lomax",
-      "entered": 17,
-      "owed": 57,
+      "entered": 18,
+      "owed": 55,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4457,6 +4583,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": 70,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4497,6 +4624,7 @@
         "Travelers": -2,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4508,8 +4636,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 25,
-      "owed": 29,
+      "entered": 26,
+      "owed": 27,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4537,6 +4665,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4577,6 +4706,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4588,8 +4718,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 25,
-      "owed": -21,
+      "entered": 26,
+      "owed": -23,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4617,6 +4747,7 @@
         "Travelers": -2,
         "Scottish": 3,
         "British Open": -10,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4628,8 +4759,8 @@
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 22,
-      "owed": -80,
+      "entered": 23,
+      "owed": -76,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4657,6 +4788,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": 4,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4668,8 +4800,8 @@
     },
     {
       "name": "Scotty Lewis",
-      "entered": 18,
-      "owed": -36,
+      "entered": 19,
+      "owed": -38,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4697,6 +4829,7 @@
         "Travelers": -2,
         "Scottish": -2,
         "British Open": -10,
+        "3M Open": -2,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4737,6 +4870,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": -10,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4777,6 +4911,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
@@ -4817,6 +4952,7 @@
         "Travelers": null,
         "Scottish": null,
         "British Open": null,
+        "3M Open": null,
         "Rocket": null,
         "3M": null,
         "Wyndham": null,
