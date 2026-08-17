@@ -57,6 +57,7 @@ const PAYOUT_OVERRIDES: Record<string, number[]> = {
   "3m-open": [12, 6, 4],      // 11 entrants × $2 = $22 pool
   "rocket-classic": [12, 6, 2], // 11 entrants × $2 = $22 pool; T3 split the $4 third prize ($2 each)
   "wyndham-championship": [15, 8, 5], // 14 entrants × $2 = $28 pool
+  "fedex-st-jude-championship": [13, 7, 4], // 12 entrants × $2 = $24 pool
 };
 
 function calcPayouts(entryFee: number, numPlayers: number, grossPrizes: number[]): Map<number, number> {
