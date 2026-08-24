@@ -3,6 +3,24 @@ import MoneyTable from "@/components/MoneyTable";
 import YearSelector from "@/components/YearSelector";
 import { Suspense } from "react";
 
+/** Digits-only phone (or an email) is what Zelle calls the recipient "token". */
+function zelleQrUrl(name: string, token: string) {
+  const payload = {
+    name: name.toUpperCase(),
+    token: token.includes("@") ? token : token.replace(/\D/g, ""),
+    action: "payment",
+  };
+  const data = Buffer.from(JSON.stringify(payload), "utf8").toString("base64");
+  return `https://enroll.zellepay.com/qr-codes?data=${encodeURIComponent(data)}`;
+}
+
+/** 8129873737 -> (812) 987-3737; anything else passes through untouched. */
+function formatPhone(value: string) {
+  const digits = value.replace(/\D/g, "");
+  if (digits.length !== 10) return value;
+  return `(${digits.slice(0, 3)}) ${digits.slice(3, 6)}-${digits.slice(6)}`;
+}
+
 export default async function MoneyPage({
   searchParams,
 }: {
@@ -48,13 +66,13 @@ export default async function MoneyPage({
         </span>
         {config.commissioner.venmo ? (
           <a
-            href={`https://venmo.com/${config.commissioner.venmo}`}
+            href={`https://venmo.com/${config.commissioner.venmo.replace(/^@/, "")}`}
             target="_blank"
             rel="noopener noreferrer"
             className="px-3 py-1 rounded-full text-sm font-semibold transition-opacity hover:opacity-80"
             style={{ background: "#008CFF", color: "#fff" }}
           >
-            Venmo
+            Venmo · @{config.commissioner.venmo.replace(/^@/, "")}
           </a>
         ) : (
           <span
@@ -73,7 +91,7 @@ export default async function MoneyPage({
             className="px-3 py-1 rounded-full text-sm font-semibold transition-opacity hover:opacity-80"
             style={{ background: "#003087", color: "#fff" }}
           >
-            PayPal
+            PayPal · {config.commissioner.paypal.replace(/^https?:\/\//, "")}
           </a>
         ) : (
           <span
@@ -86,13 +104,17 @@ export default async function MoneyPage({
         )}
         {config.commissioner.zelle ? (
           <a
-            href={`https://enroll.zellepay.com/qr-codes?data=${encodeURIComponent(config.commissioner.zelle)}`}
+            href={zelleQrUrl(
+              config.commissioner.name,
+              config.commissioner.zelle,
+            )}
             target="_blank"
             rel="noopener noreferrer"
             className="px-3 py-1 rounded-full text-sm font-semibold transition-opacity hover:opacity-80"
             style={{ background: "#6D1ED4", color: "#fff" }}
+            title="Or send to this number from your bank's Zelle screen"
           >
-            Zelle
+            Zelle · {formatPhone(config.commissioner.zelle)}
           </a>
         ) : (
           <span
