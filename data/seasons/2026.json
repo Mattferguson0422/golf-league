@@ -4251,14 +4251,139 @@
           "lineup": "G Tommy Fleetwood G Sam Burns G Alex Noren G Justin Rose G Gary Woodland G Bud Cauley"
         }
       ]
+    },
+    {
+      "slug": "tour-championship",
+      "name": "Tour Championship",
+      "year": 2026,
+      "entrants": 13,
+      "results": [
+        {
+          "rank": 1,
+          "dkUsername": "mtlomax",
+          "playerId": "michael-lomax",
+          "playerName": "Michael Lomax",
+          "dkPoints": 578.5,
+          "leaguePoints": 6,
+          "lineup": "G Rory McIlroy G Tommy Fleetwood G Cameron Young G Chris Gotterup G Jacob Bridgeman G Alex Fitzpatrick"
+        },
+        {
+          "rank": 2,
+          "dkUsername": "Derek05",
+          "playerId": "derek-banet",
+          "playerName": "Derek Banet",
+          "dkPoints": 566,
+          "leaguePoints": 5,
+          "lineup": "G Rory McIlroy G Ludvig ?berg G Patrick Cantlay G Russell Henley G Min Woo Lee G Alex Fitzpatrick"
+        },
+        {
+          "rank": 3,
+          "dkUsername": "slewis0060",
+          "playerId": "scotty-lewis",
+          "playerName": "Scotty Lewis",
+          "dkPoints": 565.5,
+          "leaguePoints": 4,
+          "lineup": "G Scottie Scheffler G Cameron Young G Robert MacIntyre G Jacob Bridgeman G Tom Kim G Alex Fitzpatrick"
+        },
+        {
+          "rank": 4,
+          "dkUsername": "btweed1683",
+          "playerId": "bryan-tweed",
+          "playerName": "Bryan Tweed",
+          "dkPoints": 542.5,
+          "leaguePoints": 3,
+          "lineup": "G Rory McIlroy G Wyndham Clark G Collin Morikawa G Ryan Gerard G Viktor Hovland G Tom Kim"
+        },
+        {
+          "rank": 5,
+          "dkUsername": "leonardslossers",
+          "playerId": "lynn-stroud",
+          "playerName": "Lynn Stroud",
+          "dkPoints": 528,
+          "leaguePoints": 2,
+          "lineup": "G Scottie Scheffler G Patrick Cantlay G Si Woo Kim G Robert MacIntyre G Alex Fitzpatrick G Akshay Bhatia"
+        },
+        {
+          "rank": 6,
+          "dkUsername": "Mattyf0422",
+          "playerId": "matt-ferguson",
+          "playerName": "Matt Ferguson",
+          "dkPoints": 522.5,
+          "leaguePoints": 1,
+          "lineup": "G Scottie Scheffler G Collin Morikawa G Russell Henley G Tom Kim G Gary Woodland G Adam Scott"
+        },
+        {
+          "rank": 7,
+          "dkUsername": "mkpoe",
+          "playerId": "matt-poe",
+          "playerName": "Matt Poe",
+          "dkPoints": 494,
+          "leaguePoints": 0,
+          "lineup": "G Ludvig ?berg G Patrick Cantlay G Cameron Young G Collin Morikawa G Si Woo Kim G Gary Woodland"
+        },
+        {
+          "rank": 8,
+          "dkUsername": "budman4423",
+          "playerId": "brian-hall",
+          "playerName": "Brian Hall",
+          "dkPoints": 490,
+          "leaguePoints": -1,
+          "lineup": "G Xander Schauffele G Cameron Young G Chris Gotterup G Matt Fitzpatrick G Si Woo Kim G Hideki Matsuyama"
+        },
+        {
+          "rank": 9,
+          "dkUsername": "JRuppe",
+          "playerId": "jonathan-ruppe",
+          "playerName": "Jonathan Ruppe",
+          "dkPoints": 487.5,
+          "leaguePoints": -2,
+          "lineup": "G Xander Schauffele G Tommy Fleetwood G Collin Morikawa G Chris Gotterup G Hideki Matsuyama G Adam Scott"
+        },
+        {
+          "rank": 10,
+          "dkUsername": "Werm-1",
+          "playerId": "ryan-wermeling",
+          "playerName": "Ryan Wermeling",
+          "dkPoints": 458.5,
+          "leaguePoints": -3,
+          "lineup": "G Xander Schauffele G Tommy Fleetwood G Collin Morikawa G Matt Fitzpatrick G Hideki Matsuyama G Adam Scott"
+        },
+        {
+          "rank": 11,
+          "dkUsername": "oneputtralphie",
+          "playerId": "ralph-poe",
+          "playerName": "Ralph Poe",
+          "dkPoints": 451,
+          "leaguePoints": -4,
+          "lineup": "G Xander Schauffele G Wyndham Clark G Patrick Cantlay G Chris Gotterup G Matt Fitzpatrick G Ryan Fox"
+        },
+        {
+          "rank": 12,
+          "dkUsername": "miller1017",
+          "playerId": "nathan-miller",
+          "playerName": "Nathan Miller",
+          "dkPoints": 442.5,
+          "leaguePoints": -5,
+          "lineup": "G Wyndham Clark G Patrick Cantlay G Collin Morikawa G Matt Fitzpatrick G Si Woo Kim G Hideki Matsuyama"
+        },
+        {
+          "rank": 13,
+          "dkUsername": "Johns59",
+          "playerId": "mac-stroud",
+          "playerName": "Mac Stroud",
+          "dkPoints": 408,
+          "leaguePoints": -6,
+          "lineup": "G Rory McIlroy G Wyndham Clark G Collin Morikawa G Hideki Matsuyama G J.J. Spaun G Adam Scott"
+        }
+      ]
     }
   ],
   "standings": [],
   "money": [
     {
       "name": "Brian Hall",
-      "entered": 26,
-      "owed": -27,
+      "entered": 27,
+      "owed": -29,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4291,7 +4416,7 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": 3,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
@@ -4337,8 +4462,8 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 24,
-      "owed": -88,
+      "entered": 25,
+      "owed": -90,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4371,7 +4496,7 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": null,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
@@ -4457,8 +4582,8 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 29,
-      "owed": 56,
+      "entered": 30,
+      "owed": 61,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4491,7 +4616,7 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": 5
       },
       "overall": 0
     },
@@ -4577,8 +4702,8 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 30,
-      "owed": 64,
+      "entered": 31,
+      "owed": 62,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4611,7 +4736,7 @@
         "Wyndham": -2,
         "St Jude": 2,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
@@ -4777,8 +4902,8 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 30,
-      "owed": 46,
+      "entered": 31,
+      "owed": 44,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4811,14 +4936,14 @@
         "Wyndham": -2,
         "St Jude": 5,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
     {
       "name": "Mac Stroud",
-      "entered": 30,
-      "owed": -3,
+      "entered": 31,
+      "owed": -5,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4851,7 +4976,7 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
@@ -4897,8 +5022,8 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 27,
-      "owed": -28,
+      "entered": 28,
+      "owed": -30,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4931,14 +5056,14 @@
         "Wyndham": 6,
         "St Jude": 11,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
     {
       "name": "Matt Poe",
-      "entered": 29,
-      "owed": -54,
+      "entered": 30,
+      "owed": -56,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -4971,7 +5096,7 @@
         "Wyndham": 13,
         "St Jude": -2,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
@@ -5017,8 +5142,8 @@
     },
     {
       "name": "Michael Lomax",
-      "entered": 21,
-      "owed": 49,
+      "entered": 22,
+      "owed": 61,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -5051,7 +5176,7 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": 12
       },
       "overall": 0
     },
@@ -5097,8 +5222,8 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 30,
-      "owed": 26,
+      "entered": 31,
+      "owed": 24,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -5131,7 +5256,7 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": 5,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
@@ -5177,8 +5302,8 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 30,
-      "owed": -11,
+      "entered": 31,
+      "owed": -13,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -5211,14 +5336,14 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": 12,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
     {
       "name": "Ryan Wermeling",
-      "entered": 26,
-      "owed": -82,
+      "entered": 27,
+      "owed": -84,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -5251,14 +5376,14 @@
         "Wyndham": -2,
         "St Jude": -2,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": -2
       },
       "overall": 0
     },
     {
       "name": "Scotty Lewis",
-      "entered": 22,
-      "owed": -42,
+      "entered": 23,
+      "owed": -39,
       "paid": 0,
       "yearlyEntry": -20,
       "tournaments": {
@@ -5291,7 +5416,7 @@
         "Wyndham": -2,
         "St Jude": null,
         "BMW": -2,
-        "Tour Champ": null
+        "Tour Champ": 3
       },
       "overall": 0
     },
