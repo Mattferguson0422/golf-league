@@ -1191,7 +1191,7 @@
           "playerId": "nathan-miller",
           "playerName": "Nathan Miller",
           "dkPoints": 330,
-          "leaguePoints": -6,
+          "leaguePoints": -6.5,
           "lineup": "G Collin Morikawa G Si Woo Kim G Jacob Bridgeman G Akshay Bhatia G Jake Knapp G Min Woo Lee"
         },
         {
@@ -1200,7 +1200,7 @@
           "playerId": "jason-elliott",
           "playerName": "Jason Elliott",
           "dkPoints": 330,
-          "leaguePoints": -6,
+          "leaguePoints": -6.5,
           "lineup": "G Collin Morikawa G Si Woo Kim G Jacob Bridgeman G Akshay Bhatia G Jake Knapp G Min Woo Lee"
         },
         {
@@ -4462,7 +4462,7 @@
     },
     {
       "name": "Bryan Tweed",
-      "entered": 25,
+      "entered": 24,
       "owed": -90,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4582,7 +4582,7 @@
     },
     {
       "name": "Derek Banet",
-      "entered": 30,
+      "entered": 29,
       "owed": 61,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4622,7 +4622,7 @@
     },
     {
       "name": "Jason Elliott",
-      "entered": 18,
+      "entered": 17,
       "owed": -67,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4702,7 +4702,7 @@
     },
     {
       "name": "Jonathan Ruppe",
-      "entered": 31,
+      "entered": 30,
       "owed": 62,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4782,7 +4782,7 @@
     },
     {
       "name": "Justin Ferguson",
-      "entered": 21,
+      "entered": 20,
       "owed": -62,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4862,7 +4862,7 @@
     },
     {
       "name": "Leah Ruppe",
-      "entered": 10,
+      "entered": 9,
       "owed": -14,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4902,7 +4902,7 @@
     },
     {
       "name": "Lynn Stroud",
-      "entered": 31,
+      "entered": 30,
       "owed": 44,
       "paid": 0,
       "yearlyEntry": -20,
@@ -4942,7 +4942,7 @@
     },
     {
       "name": "Mac Stroud",
-      "entered": 31,
+      "entered": 30,
       "owed": -5,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5022,7 +5022,7 @@
     },
     {
       "name": "Matt Ferguson",
-      "entered": 28,
+      "entered": 27,
       "owed": -30,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5062,7 +5062,7 @@
     },
     {
       "name": "Matt Poe",
-      "entered": 30,
+      "entered": 29,
       "owed": -56,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5142,7 +5142,7 @@
     },
     {
       "name": "Michael Lomax",
-      "entered": 22,
+      "entered": 21,
       "owed": 61,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5182,7 +5182,7 @@
     },
     {
       "name": "Michael Tammen",
-      "entered": 16,
+      "entered": 15,
       "owed": -57,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5222,7 +5222,7 @@
     },
     {
       "name": "Nathan Miller",
-      "entered": 31,
+      "entered": 30,
       "owed": 24,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5302,7 +5302,7 @@
     },
     {
       "name": "Ralph Poe",
-      "entered": 31,
+      "entered": 30,
       "owed": -13,
       "paid": 0,
       "yearlyEntry": -20,
@@ -5382,7 +5382,7 @@
     },
     {
       "name": "Scotty Lewis",
-      "entered": 23,
+      "entered": 22,
       "owed": -39,
       "paid": 0,
       "yearlyEntry": -20,
