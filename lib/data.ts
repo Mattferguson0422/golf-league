@@ -37,6 +37,7 @@ export interface PlayerMoney {
   owed: number;
   paid: number;
   yearlyEntry: number;
+  seasonPayout?: number;
   tournaments: Record<string, number | null>;
   overall: number;
 }

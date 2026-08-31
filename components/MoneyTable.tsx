@@ -71,6 +71,13 @@ export default function MoneyTable({ season }: { season: Season }) {
               <th className="text-right px-3 py-3 font-semibold" style={{ color: "#6b8f6d" }}>
                 Entered
               </th>
+              <th
+                className="text-right px-3 py-3 font-semibold whitespace-nowrap"
+                style={{ color: "#6b8f6d" }}
+                title="Season-long race: $20 entry plus any Overall payout"
+              >
+                Season
+              </th>
               {tournaments.map((t) => (
                 <th
                   key={t}
@@ -132,6 +139,16 @@ export default function MoneyTable({ season }: { season: Season }) {
                 </td>
                 <td className="px-3 py-2 text-right" style={{ color: "#6b8f6d" }}>
                   {player.entered}
+                </td>
+                {/* Season-long race: $20 entry plus any Overall payout */}
+                <td className="px-3 py-2 text-right">
+                  <MoneyCell
+                    value={
+                      player.yearlyEntry || player.seasonPayout
+                        ? player.yearlyEntry + (player.seasonPayout ?? 0)
+                        : null
+                    }
+                  />
                 </td>
                 {tournaments.map((t) => (
                   <td key={t} className="px-2 py-2 text-right">
