@@ -65,7 +65,11 @@ export default function MoneyTable({ season }: { season: Season }) {
               <th className="text-right px-3 py-3 font-semibold" style={{ color: "#c9a84c" }}>
                 Balance
               </th>
-              <th className="text-right px-3 py-3 font-semibold" style={{ color: "#6b8f6d" }}>
+              <th
+                className="text-right px-3 py-3 font-semibold"
+                style={{ color: "#6b8f6d" }}
+                title="Payments settled: positive = paid in, negative = paid out"
+              >
                 Paid
               </th>
               <th className="text-right px-3 py-3 font-semibold" style={{ color: "#6b8f6d" }}>
@@ -91,7 +95,10 @@ export default function MoneyTable({ season }: { season: Season }) {
             </tr>
           </thead>
           <tbody>
-            {sorted.map((player, idx) => (
+            {sorted.map((player, idx) => {
+              // Balance nets season result against payments settled
+              const balance = Math.round((player.owed + player.paid) * 100) / 100;
+              return (
               <tr
                 key={player.name}
                 style={{
@@ -108,29 +115,29 @@ export default function MoneyTable({ season }: { season: Season }) {
                 >
                   {player.name}
                 </td>
-                {/* Balance — owed is net: negative means player owes commissioner */}
+                {/* Balance — negative means player owes commissioner */}
                 <td className="px-3 py-2 text-right font-bold">
                   <span
                     className="px-2 py-0.5 rounded text-xs font-bold"
                     style={{
                       background:
-                        player.owed < 0
+                        balance < 0
                           ? "rgba(248,113,113,0.15)"
-                          : player.owed > 0
+                          : balance > 0
                           ? "rgba(74,222,128,0.15)"
                           : "transparent",
                       color:
-                        player.owed < 0
+                        balance < 0
                           ? "#f87171"
-                          : player.owed > 0
+                          : balance > 0
                           ? "#4ade80"
                           : "#6b7280",
                     }}
                   >
-                    {player.owed < 0
-                      ? `Owes $${Math.abs(player.owed).toFixed(2)}`
-                      : player.owed > 0
-                      ? `Owed $${player.owed.toFixed(2)}`
+                    {balance < 0
+                      ? `Owes $${Math.abs(balance).toFixed(2)}`
+                      : balance > 0
+                      ? `Owed $${balance.toFixed(2)}`
                       : "Even"}
                   </span>
                 </td>
@@ -156,7 +163,8 @@ export default function MoneyTable({ season }: { season: Season }) {
                   </td>
                 ))}
               </tr>
-            ))}
+              );
+            })}
           </tbody>
         </table>
       </div>

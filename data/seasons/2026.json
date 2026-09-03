@@ -4384,7 +4384,7 @@
       "name": "Brian Hall",
       "entered": 27,
       "owed": -29,
-      "paid": 0,
+      "paid": 29,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4425,7 +4425,7 @@
       "name": "Brian Segraves",
       "entered": 8,
       "owed": -40,
-      "paid": 0,
+      "paid": 40,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": null,
@@ -4466,7 +4466,7 @@
       "name": "Bryan Tweed",
       "entered": 24,
       "owed": -90,
-      "paid": 0,
+      "paid": 90,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4507,7 +4507,7 @@
       "name": "Chris Stroud",
       "entered": 15,
       "owed": 50,
-      "paid": 0,
+      "paid": -50,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4630,7 +4630,7 @@
       "name": "Jason Elliott",
       "entered": 17,
       "owed": -67,
-      "paid": 0,
+      "paid": 67,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4671,7 +4671,7 @@
       "name": "John Snider",
       "entered": 7,
       "owed": -50,
-      "paid": 0,
+      "paid": 50,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4712,7 +4712,7 @@
       "name": "Jonathan Ruppe",
       "entered": 30,
       "owed": 62,
-      "paid": 0,
+      "paid": -62,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": 3,
@@ -4794,7 +4794,7 @@
       "name": "Justin Ferguson",
       "entered": 20,
       "owed": -62,
-      "paid": 0,
+      "paid": 62,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4876,7 +4876,7 @@
       "name": "Leah Ruppe",
       "entered": 9,
       "owed": -14,
-      "paid": 0,
+      "paid": 14,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": null,
@@ -4917,7 +4917,7 @@
       "name": "Lynn Stroud",
       "entered": 30,
       "owed": 110,
-      "paid": 0,
+      "paid": -110,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -4958,7 +4958,7 @@
       "name": "Mac Stroud",
       "entered": 30,
       "owed": -5,
-      "paid": 0,
+      "paid": 5,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -5040,7 +5040,7 @@
       "name": "Matt Ferguson",
       "entered": 27,
       "owed": -30,
-      "paid": 0,
+      "paid": 30,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": 7,
@@ -5081,7 +5081,7 @@
       "name": "Matt Poe",
       "entered": 29,
       "owed": -56,
-      "paid": 0,
+      "paid": 56,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -5163,7 +5163,7 @@
       "name": "Michael Lomax",
       "entered": 21,
       "owed": 61,
-      "paid": 0,
+      "paid": -61,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -5245,7 +5245,7 @@
       "name": "Nathan Miller",
       "entered": 30,
       "owed": 24,
-      "paid": 0,
+      "paid": -24,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -5327,7 +5327,7 @@
       "name": "Ralph Poe",
       "entered": 30,
       "owed": 119,
-      "paid": 0,
+      "paid": -119,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": 15,
@@ -5368,7 +5368,7 @@
       "name": "Ryan Wermeling",
       "entered": 27,
       "owed": -84,
-      "paid": 0,
+      "paid": 84,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": -2,
@@ -5409,7 +5409,7 @@
       "name": "Scotty Lewis",
       "entered": 22,
       "owed": -39,
-      "paid": 0,
+      "paid": 39,
       "yearlyEntry": -20,
       "tournaments": {
         "Farmers": null,
@@ -5491,7 +5491,7 @@
       "name": "Trent McMahan",
       "entered": 2,
       "owed": -20,
-      "paid": 0,
+      "paid": 20,
       "yearlyEntry": 0,
       "tournaments": {
         "Farmers": null,
